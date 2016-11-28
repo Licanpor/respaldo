@@ -1,0 +1,1118 @@
+var listaProductos = { productos:[
+	
+	{
+	"id":"0",
+	"marca":"aaronbovie",
+	"categoria":"electrocirugia",
+	"codigo":"AA-DEL1",
+	"descripcion":"LAPIZ CAUTERIO DE ALTA FRECUENCIA",
+	"ruta_catalogo":"assets/productos/AARONBOVIE/del-1.pdf"
+	},
+	
+	{
+	"id":"1",
+	"marca":"aaronbovie",
+	"categoria":"electrocirugia",
+	"codigo":"A940",
+	"descripcion":"ELECTROCAUTERIO DE ALTA FRECUENCIA 40 WATTS",
+	"ruta_catalogo":"assets/productos/AARONBOVIE/aaron-940.pdf"
+	},
+	
+	{
+	"id":"2",
+	"marca":"aaronbovie",
+	"categoria":"electrocirugia",
+	"codigo":"A950",
+	"descripcion":"ELECTROCAUTERIO DE ALTA FRECUENCIA 60 WATTS",
+	"ruta_catalogo":"assets/productos/AARONBOVIE/aaron-950.pdf"
+	},
+	
+	{
+	"id":"3",
+	"marca":"aaronbovie",
+	"categoria":"electrocirugia",
+	"codigo":"A1250",
+	"descripcion":"ELECTROCIRUGIA DE ALTA FRECUENCIA 100 WATTS",
+	"ruta_catalogo":"assets/productos/AARONBOVIE/ficha-1250.pdf"
+	},
+	
+	{
+	"id":"4",
+	"marca":"wallach",
+	"categoria":"electrocirugia",
+	"codigo":"W909077A",
+	"descripcion":"UNIDAD DE ELECTROCIRUGIA QUANTUM 2000",
+	"ruta_catalogo":"assets/productos/WALLACH/Quantum-2000.pdf"
+	},
+	
+	{
+	"id":"5",
+	"marca":"aaronbovie",
+	"categoria":"electrocirugia",
+	"codigo":"IDS300",
+	"descripcion":"ELECTROCIRUGÍA PARA LA SALA DE OPERACIONES DEL HOSPITAL",
+	"ruta_catalogo":"assets/productos/AARONBOVIE/ids300.pdf"
+	},
+	
+	{
+	"id":"6",
+	"marca":"aaronbovie",
+	"categoria":"electrocirugia",
+	"codigo":"SE02",
+	"descripcion":"EVACUADOR DE HUMO SMOKE SHARK II",
+	"ruta_catalogo":"assets/productos/AARONBOVIE/FICHA-SMOKE-SHARK-II.pdf"
+	},
+	
+	{
+	"id":"7",
+	"marca":"schiller",
+	"categoria":"desfibriladores",
+	"codigo":"FRED EASY",
+	"descripcion":"DESFIBRILADOR AED (DESFIBRILADOR EXTERNO AUTOMATICO)",
+	"ruta_catalogo":"assets/productos/SCHILLER/FREAD-EASY.pdf"
+	},
+	
+	{
+	"id":"8",
+	"marca":"schiller",
+	"categoria":"desfibriladores",
+	"codigo":"DG4000",
+	"descripcion":"DESFIBRILADOR BIFASICO CON SPO2",
+	"ruta_catalogo":"assets/productos/SCHILLER/DG4000.pdf"
+	},
+	
+	{
+	"id":"9",
+	"marca":"schiller",
+	"categoria":"desfibriladores",
+	"codigo":"DG5000",
+	"descripcion":"DESFIBRILADOR BIFASICO CON SPO2 Y MONITOR",
+	"ruta_catalogo":"assets/productos/SCHILLER/DG5000.pdf"
+	},
+	
+	{
+	"id":"10",
+	"marca":"ricelake",
+	"categoria":"basculas",
+	"codigo":"RL 102613",
+	"descripcion":"BASCULA CON ESTADIMETRO CAPACIDAD 200KG",
+	"ruta_catalogo":"assets/productos/RICELAKE/BASCULA-MECANICA-200KG.pdf"
+	},
+	
+	{
+	"id":"11",
+	"marca":"ricelake",
+	"categoria":"basculas",
+	"codigo":"RL 107423",
+	"descripcion":"BASCULA PESA BEBE ELECTRONICA",
+	"ruta_catalogo":"assets/productos/RICELAKE/RL-DBS-107423.pdf"
+	},
+	
+	{
+	"id":"12",
+	"marca":"seca",
+	"categoria":"basculas",
+	"codigo":"S700",
+	"descripcion":"BASCULA MECANICA DE COLUMNA",
+	"ruta_catalogo":"assets/productos/SECA/700-BASCULA.pdf"
+	},
+	
+	{
+	"id":"13",
+	"marca":"seca",
+	"categoria":"basculas",
+	"codigo":"S769",
+	"descripcion":"BASCULA ELECTRONICA DE COLUMNA CON FUNCION BMI",
+	"ruta_catalogo":"assets/productos/SECA/769-BASCULA.pdf"
+	},
+	
+	{
+	"id":"14",
+	"marca":"seca",
+	"categoria":"basculas",
+	"codigo":"S813",
+	"descripcion":"BASCULA DE PISO",
+	"ruta_catalogo":"assets/productos/SECA/BASCULA-DE-PISO-813.pdf"
+	},
+	
+	{
+	"id":"15",
+	"marca":"seca",
+	"categoria":"basculas",
+	"codigo":"S334",
+	"descripcion":"BASCULA PESA BEBES ELECTRONICA",
+	"ruta_catalogo":"assets/productos/SECA/BASCULA-PESA-BEBE-334.pdf"
+	},
+	
+	{
+	"id":"16",
+	"marca":"seca",
+	"categoria":"basculas",
+	"codigo":"S354",
+	"descripcion":"BASCULA PESA BEBES ELECTRONICA CON PLATAFORMA",
+	"ruta_catalogo":"assets/productos/SECA/BASCULA-PESA-BEBE-354.pdf"
+	},
+	
+	{
+	"id":"17",
+	"marca":"seca",
+	"categoria":"basculas",
+	"codigo":"S213",
+	"descripcion":"ESTADIMETRO MOVIL",
+	"ruta_catalogo":"assets/productos/SECA/ESTADIMETRO-213.pdf"
+	},
+	
+	{
+	"id":"18",
+	"marca":"seca",
+	"categoria":"basculas",
+	"codigo":"S417",
+	"descripcion":"INFANTOMETRO DE MEDICION SOLIDA",
+	"ruta_catalogo":"assets/productos/SECA/INFANTOMETRO-417.pdf"
+	},
+	
+	{
+	"id":"19",
+	"marca":"metro",
+	"categoria":"carro_rojo",
+	"codigo":"MT122952",
+	"descripcion":"CARRO PARA REANIMACION CARDIOPULMONAR",
+	"ruta_catalogo":"assets/productos/METRO/carro-rojo-lifeline-metro.pdf"
+	},
+	
+	{
+	"id":"20",
+	"marca":"wallach",
+	"categoria":"criocirugia",
+	"codigo":"W900001",
+	"descripcion":"UNIDAD DE CRIOCIRUGIA C/ 3 PUNTAS",
+	"ruta_catalogo":"assets/productos/WALLACH/Wallach_cryo.pdf"
+	},
+	
+	{
+	"id":"21",
+	"marca":"huntleigh",
+	"categoria":"dopplers",
+	"codigo":"OXX55-046",
+	"descripcion":"DOPPLER FETAL 2 MHZ SONICAID ONE",
+	"ruta_catalogo":"assets/productos/HUNTLEIGH/sonicaid-one.pdf"
+	},
+	
+	{
+	"id":"22",
+	"marca":"huntleigh",
+	"categoria":"dopplers",
+	"codigo":"FD1",
+	"descripcion":"DOPPLER FETAL 2 MHZ HUNTLEIGH",
+	"ruta_catalogo":"assets/productos/HUNTLEIGH/doppler-huntleigh-pdf.pdf"
+	},
+	
+	{
+	"id":"23",
+	"marca":"huntleigh",
+	"categoria":"dopplers",
+	"codigo":"FD2",
+	"descripcion":"DOPPLER FETAL 2 MHZ CON OPCION DE SONDA INTERCAMBIABLE",
+	"ruta_catalogo":"assets/productos/HUNTLEIGH/doppler-huntleigh-pdf.pdf"
+	},
+	
+	{
+	"id":"24",
+	"marca":"schiller",
+	"categoria":"electrocardiografos",
+	"codigo":"AT-1",
+	"descripcion":"ELECTROCARDIOGRAFO DE 3 CANALES SCHILLER",
+	"ruta_catalogo":"assets/productos/SCHILLER/AT-1.pdf"
+	},
+	
+	{
+	"id":"25",
+	"marca":"schiller",
+	"categoria":"electrocardiografos",
+	"codigo":"AT-2 PLUS",
+	"descripcion":"ELECTROCARDIOGRAFO CON PANTALLA Y OPCION A ESPIROMETRIA",
+	"ruta_catalogo":"assets/productos/SCHILLER/AT-2-PLUS.pdf"
+	},
+	
+	{
+	"id":"26",
+	"marca":"schiller",
+	"categoria":"electrocardiografos",
+	"codigo":"AT-101",
+	"descripcion":"ELECTROCARDIOGRAFO CON OPCION A TROMBILITICOS Y ARRITMIAS",
+	"ruta_catalogo":"assets/productos/SCHILLER/AT-101-FICHA-TECNICA.pdf"
+	},
+	
+	{
+	"id":"27",
+	"marca":"schiller",
+	"categoria":"electrocardiografos",
+	"codigo":"AT-102",
+	"descripcion":"ELECTROCARDIOGRAFO CON OPCION A PRUEBAS DE ESFUERZO Y ESPIROMETRIA",
+	"ruta_catalogo":"assets/productos/SCHILLER/AT-102.pdf"
+	},
+	
+	{
+	"id":"28",
+	"marca":"schiller",
+	"categoria":"electrocardiografos",
+	"codigo":"AT-102 PLUS",
+	"descripcion":"ELECTROCARDIOGRAFO FRECUENCIA DE MUESTREO 4000 Hz CON OPCION A ESPIROMETRIA Y ARRITMIAS",
+	"ruta_catalogo":"assets/productos/SCHILLER/AT-102-PLUS.pdf"
+	},
+	
+	{
+	"id":"29",
+	"marca":"schiller",
+	"categoria":"electrocardiografos",
+	"codigo":"AT-10 PLUS",
+	"descripcion":"ELECTROCARDIOGRAFO RECUENCIA DE MUESTREO 4000 Hz CON OPCION A PRUEBAS DE ESFUERZO Y ESPIROMETRIA",
+	"ruta_catalogo":"assets/productos/SCHILLER/AT-10-PLUS.pdf"
+	},
+	
+	{
+	"id":"30",
+	"marca":"schiller",
+	"categoria":"electrocardiografos",
+	"codigo":"MS 2010",
+	"descripcion":"ELECTROCARDIOGRAFO TIPO TABLETA DE 10.4 PULGADAS",
+	"ruta_catalogo":"assets/productos/SCHILLER/MS-2010.pdf"
+	},
+	
+	{
+	"id":"31",
+	"marca":"schiller",
+	"categoria":"electrocardiografos",
+	"codigo":"MS 2015",
+	"descripcion":"ELECTROCARDIOGRAFO TIPO TABLETA DE 15 PULGADAS",
+	"ruta_catalogo":"assets/productos/SCHILLER/MS-2015.pdf"
+	},
+	
+	{
+	"id":"32",
+	"marca":"schiller",
+	"categoria":"electrocardiografos",
+	"codigo":"CS 200",
+	"descripcion":"ELECTROCARDIOGRAFIA EN REPOSO, ESFUERZO Y CARDIOGRAFIA VECTORIAL",
+	"ruta_catalogo":"assets/productos/SCHILLER/CS-200.pdf"
+	},
+	
+	{
+	"id":"33",
+	"marca":"schiller",
+	"categoria":"electrocardiografos",
+	"codigo":"CS 200 EXC",
+	"descripcion":"ELECTROCARDIOGRAFIA EN REPOSO, ESFUERZO Y CARDIOGRAFIA VECTORIAL Y ESPIROMETRIA",
+	"ruta_catalogo":"assets/productos/SCHILLER/CS-200.pdf"
+	},
+	
+	{
+	"id":"34",
+	"marca":"welchallyn",
+	"categoria":"estetoscopios",
+	"codigo":"WA5079-73",
+	"descripcion":"ESTETOSCOPIO LIVIANO ADULTO",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/ESTETOSCOPIOS/WA5079-73.pdf"
+	},
+	
+	{
+	"id":"35",
+	"marca":"welchallyn",
+	"categoria":"estetoscopios",
+	"codigo":"WA5079-135",
+	"descripcion":"ESTETOSCOPIO PROFESIONAL ADULTO",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/ESTETOSCOPIOS/WA5079-135.pdf"
+	},
+	
+	{
+	"id":"36",
+	"marca":"welchallyn",
+	"categoria":"estetoscopios",
+	"codigo":"WA5079-145",
+	"descripcion":"ESTETOSCOPIO PROFESIONAL PEDIATRICO",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/ESTETOSCOPIOS/WA5079-145.pdf"
+	},
+	
+	{
+	"id":"37",
+	"marca":"welchallyn",
+	"categoria":"estetoscopios",
+	"codigo":"WA5079-125",
+	"descripcion":"ESTETOSCOPIO HARVEY ELITE",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/ESTETOSCOPIOS/WA5079-125.pdf"
+	},
+	
+	{
+	"id":"38",
+	"marca":"littmann",
+	"categoria":"estetoscopios",
+	"codigo":"2113",
+	"descripcion":"ESTETOSCOPIO CLASSIC II PEDIATRICO NEGRO",
+	"ruta_catalogo":"assets/productos/LITTMANN/CLASSIC-II-PEDIATRICO-NEGRO.pdf"
+	},
+	
+	{
+	"id":"39",
+	"marca":"littmann",
+	"categoria":"estetoscopios",
+	"codigo":"2144",
+	"descripcion":"ESTETOSCOPIO MASTER CLASSIC II NEGRO",
+	"ruta_catalogo":"assets/productos/LITTMANN/MASTER-CLASSIC-II-NEGRO.pdf"
+	},
+	
+	{
+	"id":"40",
+	"marca":"littmann",
+	"categoria":"estetoscopios",
+	"codigo":"3128",
+	"descripcion":"ESTETOSCOPIO CARDIOLOGY III NEGRO",
+	"ruta_catalogo":"assets/productos/LITTMANN/CARDIOLOGY-III-NEGRO.pdf"
+	},
+	
+	{
+	"id":"41",
+	"marca":"welchallyn",
+	"categoria":"esfigmomanometros",
+	"codigo":"WADS44-11",
+	"descripcion":"ESFIGMOMANOMETRO ANEROIDE PORTATIL",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/ESFIGMOMANOMETRO/WADS44-11.pdf"
+	},
+	
+	{
+	"id":"42",
+	"marca":"welchallyn",
+	"categoria":"esfigmomanometros",
+	"codigo":"WA7670-01",
+	"descripcion":"ESFIGMOMANOMETRO ANEROIDE DE PARED",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/ESFIGMOMANOMETRO/WA767001-10.pdf"
+	},
+	
+	{
+	"id":"43",
+	"marca":"welchallyn",
+	"categoria":"esfigmomanometros",
+	"codigo":"WA7670-10",
+	"descripcion":"ESFIGMOMANOMETRO ANEROIDE DE PEDESTAL",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/ESFIGMOMANOMETRO/WA767001-10.pdf"
+	},
+	
+	{
+	"id":"44",
+	"marca":"welchallyn",
+	"categoria":"estuches_diagnostico",
+	"codigo":"WA95001",
+	"descripcion":"ESTUCHE DE DIAGNOSTICO POCKET JUNIOR 2.5V",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/WA95001.pdf"
+	},
+	
+	{
+	"id":"45",
+	"marca":"welchallyn",
+	"categoria":"estuches_diagnostico",
+	"codigo":"WA97150-C",
+	"descripcion":"ESTUCHE DE DIAGNOSTICO 3.5V",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/WA97150-C.pdf"
+	},
+	
+	{
+	"id":"46",
+	"marca":"welchallyn",
+	"categoria":"estuches_diagnostico",
+	"codigo":"WA97200-C",
+	"descripcion":"ESTUCHE DE DIAGNOSTICO 3.5V",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/WA97200-C.pdf"
+	},
+	
+	{
+	"id":"47",
+	"marca":"welchallyn",
+	"categoria":"estuches_diagnostico",
+	"codigo":"WA18320-C",
+	"descripcion":"ESTUCHE DE DISGNOSTICO CON RETINOSCOPIO 3.5V",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/WA18320-C.pdf"
+	},
+	
+	{
+	"id":"48",
+	"marca":"welchallyn",
+	"categoria":"estuches_diagnostico",
+	"codigo":"WA71000-C",
+	"descripcion":"MANGO RECARGABLE DE 3.5V CON CONVERTIDOR A PILA ALCALINA",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/WA71000-C.pdf"
+	},
+	
+	{
+	"id":"49",
+	"marca":"welchallyn",
+	"categoria":"estuches_diagnostico",
+	"codigo":"WA71900",
+	"descripcion":"MANGO RECARGABLE DE LITIO 3.5V",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/WA71900.pdf"
+	},
+	
+	{
+	"id":"50",
+	"marca":"welchallyn",
+	"categoria":"estuches_diagnostico",
+	"codigo":"WA27000",
+	"descripcion":"ILUMINADOR LARINGEO DE 3.5V",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/WA27050-7000.pdf"
+	},
+	
+	{
+	"id":"51",
+	"marca":"welchallyn",
+	"categoria":"estuches_diagnostico",
+	"codigo":"WA28100",
+	"descripcion":"PORTA-ABATELENGUAS DE 3.5V",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/WA28000-8100.pdf"
+	},
+	
+	{
+	"id":"52",
+	"marca":"welchallyn",
+	"categoria":"estuches_diagnostico",
+	"codigo":"WA11710",
+	"descripcion":"OFTALMOSCOPIO DE 3.5V",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/WA11710.pdf"
+	},
+	
+	{
+	"id":"53",
+	"marca":"welchallyn",
+	"categoria":"estuches_diagnostico",
+	"codigo":"WA11720",
+	"descripcion":"OFTALMOSCOPIO DE 3.5V",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/WA11720.pdf"
+	},	
+	
+	{
+	"id":"54",
+	"marca":"welchallyn",
+	"categoria":"estuches_diagnostico",
+	"codigo":"WA11735",
+	"descripcion":"OFTALMOSCOPIO COAXIAL DE 3.5V",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/WA11735.pdf"
+	},
+	
+	{
+	"id":"55",
+	"marca":"welchallyn",
+	"categoria":"estuches_diagnostico",
+	"codigo":"WA11810",
+	"descripcion":"OFTALMOSCOPIO PANOPTIC DE 3.5V",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/WA11810.pdf"
+	},
+	
+	{
+	"id":"56",
+	"marca":"welchallyn",
+	"categoria":"estuches_diagnostico",
+	"codigo":"WA11820",
+	"descripcion":"OFTALMOSCOPIO PANOPTIC DE 3.5V CON FILTRO LIBRE DE ROJO Y AZUL COBALTO",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/WA11811.pdf"
+	},
+	
+	{
+	"id":"57",
+	"marca":"welchallyn",
+	"categoria":"estuches_diagnostico",
+	"codigo":"WA25020",
+	"descripcion":"OTOSCOPIO DE 3.5V",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/WA25020.pdf"
+	},
+	
+	{
+	"id":"58",
+	"marca":"welchallyn",
+	"categoria":"estuches_diagnostico",
+	"codigo":"WA20000",
+	"descripcion":"OTOSCOPIO DE 3.5V CON ILUMINADOR",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/WA20000.pdf"
+	},
+	
+	{
+	"id":"59",
+	"marca":"welchallyn",
+	"categoria":"estuches_diagnostico",
+	"codigo":"WA23810",
+	"descripcion":"OTOSCOPIO MACROVIEW DE 3.5V",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/WA23810.pdf"
+	},
+	
+	{
+	"id":"60",
+	"marca":"welchallyn",
+	"categoria":"estuches_diagnostico",
+	"codigo":"WA23820",
+	"descripcion":"OTOSCOPIO MACROVIEW DE 3.5V CON ILUMINADOR",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/WA23820.pdf"
+	},
+	
+	{
+	"id":"61",
+	"marca":"welchallyn",
+	"categoria":"estuches_diagnostico",
+	"codigo":"WA23920",
+	"descripcion":"VIDEOTOSCOPIO MACROVIEW",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/WA23920.pdf"
+	},
+	
+	{
+	"id":"62",
+	"marca":"welchallyn",
+	"categoria":"estuches_diagnostico",
+	"codigo":"WA18245",
+	"descripcion":"CABEZAL DE RETISCOPIO DE 3.5V",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/WA18245.pdf"
+	},
+	
+	{
+	"id":"63",
+	"marca":"welchallyn",
+	"categoria":"estuches_diagnostico",
+	"codigo":"WA77710",
+	"descripcion":"UNIDAD DE PARED CON 2 MANGOS",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/CATALOGOS-WA/UNIDAD-PARED-77710.pdf"
+	},
+	
+	{
+	"id":"64",
+	"marca":"welchallyn",
+	"categoria":"estuches_diagnostico",
+	"codigo":"WA52401",
+	"descripcion":"DISPENSADOR DE ESPECULOS",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/WA52401.pdf"
+	},
+	
+	{
+	"id":"65",
+	"marca":"welchallyn",
+	"categoria":"estuches_diagnostico",
+	"codigo":"WA01690-400",
+	"descripcion":"TERMOMETRO ELECTRONICO SURETEMP",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/TERMOMETRIA/WA01690-400.pdf"
+	},
+	
+	{
+	"id":"66",
+	"marca":"welchallyn",
+	"categoria":"espejos_vaginales",
+	"codigo":"WA79910",
+	"descripcion":"SISTEMA DE ILUMINACION INALAMBRICA VAGINAL",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/GINECOLOGIA/WA79910.pdf"
+	},
+	
+	{
+	"id":"67",
+	"marca":"welchallyn",
+	"categoria":"espejos_vaginales",
+	"codigo":"WA59000",
+	"descripcion":"ESPEJO VAGINAL CHICO C/24 PZAS",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/GINECOLOGIA/WA59000.pdf"
+	},
+	
+	{
+	"id":"68",
+	"marca":"welchallyn",
+	"categoria":"espejos_vaginales",
+	"codigo":"WA59001",
+	"descripcion":"ESPEJO VAGINAL MEDIANA C/24 PZAS",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/GINECOLOGIA/WA59001.pdf"
+	},
+	
+	{
+	"id":"69",
+	"marca":"welchallyn",
+	"categoria":"espejos_vaginales",
+	"codigo":"WA59004",
+	"descripcion":"ESPEJO VAGINAL GRANDE C/24 PZAS",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/GINECOLOGIA/WA59004.pdf"
+	},
+	
+	{
+	"id":"70",
+	"marca":"welchallyn",
+	"categoria":"espejos_vaginales",
+	"codigo":"WA59006",
+	"descripcion":"ESPEJO VAGINAL MEDIANO CON EVACUADOR DE HUMO C/12 PZAS",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/GINECOLOGIA/WA59006.pdf"
+	},
+	
+	{
+	"id":"71",
+	"marca":"schiller",
+	"categoria":"espirometria",
+	"codigo":"SP-1",
+	"descripcion":"ESPIROMETRO SPIROVIT",
+	"ruta_catalogo":"assets/productos/SCHILLER/SP-1.pdf"
+	},
+	
+	{
+	"id":"72",
+	"marca":"welchallyn",
+	"categoria":"lamparas_exploracion",
+	"codigo":"WA44400",
+	"descripcion":"LAMPARA DE EXPLORACION GS300",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/ILUMINACION/WA44400.pdf"
+	},
+	
+	{
+	"id":"73",
+	"marca":"welchallyn",
+	"categoria":"lamparas_exploracion",
+	"codigo":"WA48810",
+	"descripcion":"LAMPARA DE EXPLORACION GSIV",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/ILUMINACION/WA48810.pdf"
+	},
+	
+	{
+	"id":"74",
+	"marca":"welchallyn",
+	"categoria":"lamparas_exploracion",
+	"codigo":"WA76600",
+	"descripcion":"LAMPARA PENTLITE PROFESIONAL",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/ILUMINACION/WA76601.pdf"
+	},
+	
+	{
+	"id":"75",
+	"marca":"welchallyn",
+	"categoria":"lamparas_exploracion",
+	"codigo":"WA44600",
+	"descripcion":"LAMPARA DE EXPLORACION GS600",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/ILUMINACION/WA44600.pdf"
+	},
+	
+	{
+	"id":"76",
+	"marca":"welchallyn",
+	"categoria":"lamparas_exploracion",
+	"codigo":"WA44900",
+	"descripcion":"LAMPARA DE EXPLORACION Y QUIRURGICA GS900",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/ILUMINACION/WA44900.pdf"
+	},
+	
+	{
+	"id":"77",
+	"marca":"welchallyn",
+	"categoria":"lamparas_frontales",
+	"codigo":"WA46070",
+	"descripcion":"LAMPARA FRONTAL CON BANDA DE TELA",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/ILUMINACION/WA46070.pdf"
+	},
+	
+	{
+	"id":"78",
+	"marca":"welchallyn",
+	"categoria":"lamparas_frontales",
+	"codigo":"WA49020",
+	"descripcion":"LAMPARA FRONTAL NEGRA",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/ILUMINACION/WA49020.pdf"
+	},
+	
+	{
+	"id":"79",
+	"marca":"welchallyn",
+	"categoria":"lamparas_frontales",
+	"codigo":"WA49520",
+	"descripcion":"LAMPARA FRONTAL SOLARC MFI",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/ILUMINACION/WA49520.pdf"
+	},
+	
+	{
+	"id":"80",
+	"marca":"schiller",
+	"categoria":"monitores",
+	"codigo":"VS100",
+	"descripcion":"MONITOR DE SIGNOS VITALES BASICO ARGUS",
+	"ruta_catalogo":"assets/productos/SCHILLER/VS-100.pdf"
+	},
+	
+	{
+	"id":"81",
+	"marca":"schiller",
+	"categoria":"monitores",
+	"codigo":"TRUSCOPE CLASSIC",
+	"descripcion":"MONITOR DE SIGNOS VITALES HOSPITALARIO",
+	"ruta_catalogo":"assets/productos/SCHILLER/MONITOR-TRUSCOPE.pdf"
+	},
+	
+	{
+	"id":"82",
+	"marca":"nonin",
+	"categoria":"oximetros",
+	"codigo":"9550",
+	"descripcion":"OXIMETRO DE DEDO",
+	"ruta_catalogo":"assets/productos/NONIN/OXIMETRO-NONIN-9550.jpg"
+	},
+	
+	{
+	"id":"83",
+	"marca":"nonin",
+	"categoria":"oximetros",
+	"codigo":"GO2",
+	"descripcion":"OXIMETRO DE DEDO",
+	"ruta_catalogo":"assets/productos/NONIN/OXIMETRO-GO2.png"
+	},
+	
+	{
+	"id":"84",
+	"marca":"nonin",
+	"categoria":"oximetros",
+	"codigo":"2500",
+	"descripcion":"OXIMETRO DE PULSO PALM",
+	"ruta_catalogo":"assets/productos/NONIN/Oximetro-Palm-2500-2500A.pdf"
+	},
+	
+	{
+	"id":"85",
+	"marca":"huntleigh",
+	"categoria":"tococardiografos",
+	"codigo":"TEAM",
+	"descripcion":"MONITORIZACION FETAL AVANZADA CON ANALISIS DE LA FCF SONICAID TEAM",
+	"ruta_catalogo":"assets/productos/HUNTLEIGH/SONICAID-TEAM.pdf"
+	},
+	
+	{
+	"id":"86",
+	"marca":"welchallyn",
+	"categoria":"laringoscopios",
+	"codigo":"WA60300",
+	"descripcion":"MANGO PARA LARINGOSCOPIO ESTANDAR DE 2.5V",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/MANGOS-1.pdf"
+	},
+	
+	{
+	"id":"87",
+	"marca":"welchallyn",
+	"categoria":"laringoscopios",
+	"codigo":"WA60715",
+	"descripcion":"MANGO PARA LARINGOSCOPIO ESTANDAR RECARGABLE",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/MANGOS-1.pdf"
+	},
+	
+	{
+	"id":"88",
+	"marca":"welchallyn",
+	"categoria":"laringoscopios",
+	"codigo":"WA60813",
+	"descripcion":"MANGO PARA LARINGOSCOPIO F.O. DE 2.5 V ",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/MANGOS-2.pdf"
+	},
+	
+	{
+	"id":"89",
+	"marca":"welchallyn",
+	"categoria":"laringoscopios",
+	"codigo":"WA60814",
+	"descripcion":"MANGO PARA LARINGOSCOPIO F.O. DE 2.5 V PEQUEÑO",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/MANGOS-2.pdf"
+	},
+	
+	{
+	"id":"90",
+	"marca":"welchallyn",
+	"categoria":"laringoscopios",
+	"codigo":"WA60713",
+	"descripcion":"MANGO PARA LARINGOSCOPIO F.O. DE 2.5 V RECARGABLE",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/MANGOS-2.pdf"
+	},
+	
+	{
+	"id":"91",
+	"marca":"welchallyn",
+	"categoria":"laringoscopios",
+	"codigo":"WA60835",
+	"descripcion":"MANGO PARA LARINGOSCOPIO F.O. DE 3.5 V RECARGABLE",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/MANGOS-2.pdf"
+	},
+	
+	{
+	"id":"92",
+	"marca":"welchallyn",
+	"categoria":"laringoscopios",
+	"codigo":"WA68045",
+	"descripcion":"HOJA DE LARINGOSCOPIO ESTANDAR RECTA #00",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/HOJAS-E1.pdf"
+	},
+	
+	{
+	"id":"93",
+	"marca":"welchallyn",
+	"categoria":"laringoscopios",
+	"codigo":"WA68040",
+	"descripcion":"HOJA DE LARINGOSCOPIO ESTANDAR RECTA #0",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/HOJAS-E1.pdf"
+	},
+	
+	{
+	"id":"94",
+	"marca":"welchallyn",
+	"categoria":"laringoscopios",
+	"codigo":"WA68041",
+	"descripcion":"HOJA DE LARINGOSCOPIO ESTANDAR RECTA #1",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/HOJAS-E1.pdf"
+	},
+	
+	{
+	"id":"95",
+	"marca":"welchallyn",
+	"categoria":"laringoscopios",
+	"codigo":"WA68042",
+	"descripcion":"HOJA DE LARINGOSCOPIO ESTANDAR RECTA #2",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/HOJAS-E1.pdf"
+	},
+	
+	{
+	"id":"96",
+	"marca":"welchallyn",
+	"categoria":"laringoscopios",
+	"codigo":"WA68043",
+	"descripcion":"HOJA DE LARINGOSCOPIO ESTANDAR RECTA #3",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/HOJAS-E1.pdf"
+	},
+	
+	{
+	"id":"97",
+	"marca":"welchallyn",
+	"categoria":"laringoscopios",
+	"codigo":"WA68044",
+	"descripcion":"HOJA DE LARINGOSCOPIO ESTANDAR RECTA #4",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/HOJAS-E1.pdf"
+	},
+	
+	{
+	"id":"98",
+	"marca":"welchallyn",
+	"categoria":"laringoscopios",
+	"codigo":"WA69041",
+	"descripcion":"HOJA DE LARINGOSCOPIO ESTANDAR CURVA #1",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/HOJAS-E2.pdf"
+	},
+	
+	{
+	"id":"99",
+	"marca":"welchallyn",
+	"categoria":"laringoscopios",
+	"codigo":"WA69042",
+	"descripcion":"HOJA DE LARINGOSCOPIO ESTANDAR CURVA #2",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/HOJAS-E2.pdf"
+	},
+	
+	{
+	"id":"100",
+	"marca":"welchallyn",
+	"categoria":"laringoscopios",
+	"codigo":"WA69043",
+	"descripcion":"HOJA DE LARINGOSCOPIO ESTANDAR CURVA #3",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/HOJAS-E2.pdf"
+	},
+	
+	{
+	"id":"101",
+	"marca":"welchallyn",
+	"categoria":"estuches_diagnostico",
+	"codigo":"WA11730",
+	"descripcion":"OFTALMOSCOPIO COAXIAL DE 3.5V",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/WA11730.pdf"
+	},
+	
+	{
+	"id":"102",
+	"marca":"welchallyn",
+	"categoria":"laringoscopios",
+	"codigo":"WA69044",
+	"descripcion":"HOJA DE LARINGOSCOPIO ESTANDAR CURVA #4",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/HOJAS-E2.pdf"
+	},
+	
+	{
+	"id":"103",
+	"marca":"welchallyn",
+	"categoria":"laringoscopios",
+	"codigo":"WA68065",
+	"descripcion":"HOJA DE LARINGOSCOPIO F.O. RECTA #00",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/HOJAS-FB1.pdf"
+	},
+	
+	{
+	"id":"104",
+	"marca":"welchallyn",
+	"categoria":"laringoscopios",
+	"codigo":"WA68060",
+	"descripcion":"HOJA DE LARINGOSCOPIO F.O. RECTA #0",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/HOJAS-FB1.pdf"
+	},
+	
+	{
+	"id":"105",
+	"marca":"welchallyn",
+	"categoria":"laringoscopios",
+	"codigo":"WA68061",
+	"descripcion":"HOJA DE LARINGOSCOPIO F.O. RECTA #1",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/HOJAS-FB1.pdf"
+	},
+	
+	{
+	"id":"106",
+	"marca":"welchallyn",
+	"categoria":"laringoscopios",
+	"codigo":"WA68062",
+	"descripcion":"HOJA DE LARINGOSCOPIO F.O. RECTA #2",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/HOJAS-FB1.pdf"
+	},
+	
+	{
+	"id":"107",
+	"marca":"welchallyn",
+	"categoria":"laringoscopios",
+	"codigo":"WA68063",
+	"descripcion":"HOJA DE LARINGOSCOPIO F.O. RECTA #3",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/HOJAS-FB1.pdf"
+	},
+	
+	{
+	"id":"109",
+	"marca":"welchallyn",
+	"categoria":"laringoscopios",
+	"codigo":"WA68064",
+	"descripcion":"HOJA DE LARINGOSCOPIO F.O. RECTA #4",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/HOJAS-FB1.pdf"
+	},
+	
+	{
+	"id":"110",
+	"marca":"welchallyn",
+	"categoria":"laringoscopios",
+	"codigo":"WA69061",
+	"descripcion":"HOJA DE LARINGOSCOPIO F.O. CURVA #1",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/HOJAS-FB2.pdf"
+	},
+	
+	{
+	"id":"111",
+	"marca":"welchallyn",
+	"categoria":"laringoscopios",
+	"codigo":"WA69062",
+	"descripcion":"HOJA DE LARINGOSCOPIO F.O. CURVA #2",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/HOJAS-FB2.pdf"
+	},
+	
+	{
+	"id":"112",
+	"marca":"welchallyn",
+	"categoria":"laringoscopios",
+	"codigo":"WA69063",
+	"descripcion":"HOJA DE LARINGOSCOPIO F.O. CURVA #3",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/HOJAS-FB2.pdf"
+	},
+	
+	{
+	"id":"113",
+	"marca":"welchallyn",
+	"categoria":"laringoscopios",
+	"codigo":"WA69064",
+	"descripcion":"HOJA DE LARINGOSCOPIO F.O. CURVA #4",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/HOJAS-FB2.pdf"
+	},
+	
+	{
+	"id":"114",
+	"marca":"welchallyn",
+	"categoria":"laringoscopios",
+	"codigo":"WA71140",
+	"descripcion":"CARGADOR DE ESCRITORIO",
+	"ruta_catalogo":"assets/productos/WELCHALLYN/OJOOIDONARGARG/WA71140.pdf"
+	},
+	
+	{
+	"id":"115",
+	"marca":"midmark",
+	"categoria":"mesas",
+	"codigo":"M204",
+	"descripcion":"MESA DE EXPLORACION MANUAL 204",
+	"ruta_catalogo":"assets/productos/MIDMARK/MIDMARK_204.pdf"
+	},
+	
+	{
+	"id":"116",
+	"marca":"midmark",
+	"categoria":"mesas",
+	"codigo":"M604",
+	"descripcion":"MESA DE EXPLORACION MANUAL 604",
+	"ruta_catalogo":"assets/productos/MIDMARK/604-MIDMARK.pdf"
+	},
+	
+	{
+	"id":"117",
+	"marca":"midmark",
+	"categoria":"mesas",
+	"codigo":"M222",
+	"descripcion":"MESA DE EXPLORACION CON ALTURA ELECTRICA",
+	"ruta_catalogo":"assets/productos/MIDMARK/222-223-power-examination-table.pdf"
+	},
+	
+	{
+	"id":"118",
+	"marca":"midmark",
+	"categoria":"mesas",
+	"codigo":"M223",
+	"descripcion":"MESA DE EXPLORACION CON ALTURA Y RESPALDO ELECTRICO",
+	"ruta_catalogo":"assets/productos/MIDMARK/222-223-power-examination-table.pdf"
+	},
+	
+	{
+	"id":"119",
+	"marca":"midmark",
+	"categoria":"mesas",
+	"codigo":"M230",
+	"descripcion":"MESA DE EXPLORACION UNIVERSAL ELECTRICA",
+	"ruta_catalogo":"assets/productos/MIDMARK/230.pdf"
+	},
+	
+	{
+	"id":"120",
+	"marca":"midmark",
+	"categoria":"mesas",
+	"codigo":"M640",
+	"descripcion":"MESA DE EXAMINACION PEDIATRICA",
+	"ruta_catalogo":"assets/productos/MIDMARK/640-pediatric-examination-table.pdf"
+	},
+	
+	{
+	"id":"121",
+	"marca":"littmann",
+	"categoria":"estetoscopios",
+	"codigo":"2201",
+	"descripcion":"ESTETOSCOPIO CLASSIC II NEGRO",
+	"ruta_catalogo":"assets/productos/LITTMANN/CLASSIC-II-NEGRO.pdf"
+	},
+	
+	{
+	"id":"122",
+	"marca":"mortara",
+	"categoria":"electrocardiografos",
+	"codigo":"S12 & S19",
+	"descripcion":"MONITOR DE SIGNOS VITALES MULTIPARAMETRICO",
+	"ruta_catalogo":"assets/productos/MORTARA/S12-S19-PC.pdf"
+	},
+	
+	{
+	"id":"123",
+	"marca":"philips",
+	"categoria":"nebulizadores",
+	"codigo":"NEBULIZADORPH",
+	"descripcion":"NEBULIZADOR ELEGANCE",
+	"ruta_catalogo":"assets/productos/PHILIPS/NEBULIZADOR-ELEGANCE.pdf"
+	},
+	
+	{
+	"id":"124",
+	"marca":"philips",
+	"categoria":"camaras",
+	"codigo":"CAMARAPH",
+	"descripcion":"CAMARA ESPACIADORA OPTICHAMBER",
+	"ruta_catalogo":"assets/productos/PHILIPS/CAMARA-ESPACIADORA.pdf"
+	}
+]}

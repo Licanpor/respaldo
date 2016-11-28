@@ -1,0 +1,988 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"html"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"broder-r",
+				"border-right"
+			],
+			[
+				"padi",
+				"padding-left"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"font-st",
+				"font-style"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"modal",
+				"modalVideo"
+			],
+			[
+				"altura",
+				"altura_screen"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"im",
+				"img-responsive"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"nue",
+				"nuevoPar"
+			],
+			[
+				"tam",
+				"tamañoFuente"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"te",
+				"text-center"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"ta",
+				"tamañoFuente"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"arr",
+				"arregloRep"
+			],
+			[
+				"ar",
+				"arregloRep"
+			],
+			[
+				"mas",
+				"masRepeticion"
+			],
+			[
+				"vl",
+				"valor"
+			],
+			[
+				"ara",
+				"arrayPalabras"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"a",
+				"arrayPalabras"
+			],
+			[
+				"we",
+				"wddx_packet_end"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"con",
+				"consultoria"
+			],
+			[
+				"cons",
+				"consulting"
+			],
+			[
+				"name",
+				"name-container"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"re",
+				"regexName"
+			],
+			[
+				"caja",
+				"cajaRosa"
+			],
+			[
+				"inser",
+				"insertBefore"
+			],
+			[
+				"lim",
+				"limpiar"
+			],
+			[
+				"di",
+				"divs"
+			],
+			[
+				"clas",
+				"classList"
+			],
+			[
+				"div",
+				"divLista"
+			],
+			[
+				"inset",
+				"insertBefore"
+			],
+			[
+				"cre",
+				"createElement"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"span",
+				"spanHijo"
+			],
+			[
+				"ti",
+				"titulo"
+			],
+			[
+				"bt",
+				"btnAgregar"
+			],
+			[
+				"tarea",
+				"tareaNueva"
+			],
+			[
+				"s",
+				"setAttribute"
+			],
+			[
+				"tare",
+				"tareaNueva"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"v",
+				"validarError"
+			],
+			[
+				"vali",
+				"validarError"
+			],
+			[
+				"ma",
+				"mayúscula"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"valid",
+				"validarNotNull"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"elUs",
+				"elUsuario"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"el",
+				"elUser"
+			],
+			[
+				"asign",
+				"asignatura"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ob",
+				"obtDetalles"
+			],
+			[
+				"in",
+				"isPalindromo"
+			],
+			[
+				"jugador",
+				"jugador2"
+			],
+			[
+				"jugad",
+				"jugador1"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"padig",
+				"padding"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"background-",
+				"background-size"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"borderr",
+				"border-radius"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"ali",
+				"align-content"
+			],
+			[
+				"bore",
+				"border"
+			],
+			[
+				"MARGIN",
+				"margin-left"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"i",
+				"id\tAttr"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"l",
+				"list\tlist-style-type"
+			],
+			[
+				"lis",
+				"lisi\tlist-style-image"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"margn",
+				"margin-bottom"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"blo",
+				"inline-block"
+			],
+			[
+				"inl",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Alumna/Documents/ComboCincoMil/home.html",
+			"settings":
+			{
+				"buffer_size": 9105,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Alumna/Documents/ComboCincoMil/css/home.css",
+			"settings":
+			{
+				"buffer_size": 4931,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Alumna/Documents/ComboCincoMil",
+		"/C/Users/Alumna/Documents/ComboCincoMil/css"
+	],
+	"file_history":
+	[
+		"/C/Users/Alumna/Documents/ComboCincoMil/nosotros.html",
+		"/C/Users/Alumna/Documents/ComboCincoMil/home.html",
+		"/C/Users/Alumna/Documents/ComboCincoMil/index.html",
+		"/C/Users/Alumna/Documents/ComboCincoMil/css/main.css",
+		"/C/Users/Alumna/Documents/ComboCincoMil/css/home.css",
+		"/C/Users/Alumna/Documents/ComboCincoMil/js/main.js",
+		"/C/Users/Alumna/Documents/Laboratoria/19_AcademiadeDanza/index.html",
+		"/C/Users/Alumna/Documents/Laboratoria/19_AcademiadeDanza/clases.html",
+		"/C/Users/Alumna/Documents/combo1/nuevoCombo/index.html",
+		"/C/Users/Alumna/Documents/combo1/nuevoCombo/home.html",
+		"/C/Users/Alumna/Documents/Laboratoria/29_Business/Problema/index.html",
+		"/C/Users/Alumna/Documents/combo1/nuevoCombo/css/home.css",
+		"/C/Users/Alumna/Documents/combo1/index.html",
+		"/C/Users/Alumna/Documents/combo1/nuevoCombo/modalgallery.html",
+		"/C/Users/Alumna/Documents/combo1/nuevoCombo/video/README.md",
+		"/C/Users/Alumna/Documents/combo1/nuevoCombo/video/index.html",
+		"/C/Users/Alumna/Documents/combo1/nuevoCombo/video/YouTubePopUp.css",
+		"/C/Users/Alumna/Documents/combo1/nuevoCombo/audio.html",
+		"/C/Users/Alumna/Documents/combo1/nuevoCombo/css/queries.css",
+		"/C/Users/Alumna/Documents/Laboratoria/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/css/bootstrap.css",
+		"/C/Users/Alumna/Documents/Laboratoria/34_KaneTheme/index.html",
+		"/C/Users/Alumna/Documents/Laboratoria/18_ComunidadSostenible/index.html",
+		"/C/Users/Alumna/Documents/Laboratoria/27_Coder/index.html",
+		"/C/Users/Alumna/Documents/combo1/nuevoCombo/css/icomoon.zip",
+		"/C/Users/Alumna/Documents/kiNit/QMScopia/assets/css/queries.css",
+		"/C/Users/Alumna/Documents/combo1/nuevoCombo/css/fonts.css",
+		"/C/Users/Alumna/Documents/combo1/nuevoCombo/radio/icomoon.zip",
+		"/C/Users/Alumna/Documents/combo1/nuevoCombo/radio/Audio-Player-Plugin/simple-html5-music-player.css",
+		"/C/Users/Alumna/Documents/combo1/nuevoCombo/video/Responsive-Youtube-Vimeo-Video-Lightbox-Plugin-YouTubePopUp/Responsive-Youtube-Vimeo-Video-Lightbox-Plugin-YouTubePopUp/README.md",
+		"/C/Users/Alumna/Documents/combo1/nuevoCombo/radio/Audio-Player-Plugin/README.md",
+		"/C/Users/Alumna/Documents/combo1/nuevoCombo/radio/Audio-Player-Plugin/index.html",
+		"/C/Users/Alumna/Documents/combo1/nuevoCombo/video/Responsive-Youtube-Vimeo-Video-Lightbox-Plugin-YouTubePopUp/Responsive-Youtube-Vimeo-Video-Lightbox-Plugin-YouTubePopUp/YouTubePopUp.css",
+		"/C/Users/Alumna/Documents/combo1/nuevoCombo/css/main.css",
+		"/C/Users/Alumna/Documents/Laboratoria/26_Problema/index.html",
+		"/C/Users/Alumna/Documents/combo1/nuevoCombo/img/fonts/icomoon.eot",
+		"/C/Users/Alumna/Documents/Laboratoria/34_KaneTheme/css/main.css",
+		"/C/Users/Alumna/Documents/kiNit/QMScopia/assets/js/site.js",
+		"/C/Users/Alumna/Documents/kiNit/QMScopia/assets/css/styles.css",
+		"/C/Users/Alumna/Documents/kiNit/QMScopia/index.html",
+		"/C/Users/Alumna/Documents/kiNit/QMScopia/assets/js/infpsdada.html",
+		"/C/Users/Alumna/Documents/Laboratoria/27_Coder/css/main.css",
+		"/C/Users/Alumna/Documents/Laboratoria/27_Coder/img/Vide-master.zip",
+		"/C/Users/Alumna/Documents/Laboratoria/27_Coder/El “COMBO DE LA REACTIVACIÓN” es un colectivo itin",
+		"/C/Users/Alumna/Documents/combo1/css/radio.css",
+		"/C/Users/Alumna/Documents/combo1/css/video.css",
+		"/C/Users/Alumna/Documents/kiNit/QMS/assets/css/styles.css",
+		"/C/Users/Alumna/Documents/Laboratoria/bootstrap-3.3.7-dist/bootstrap-3.3.7-dist/js/bootstrap.js",
+		"/C/Users/Alumna/Documents/kiNit/QMScopia/assets/libs/bootstrap/bootstrap.min.css",
+		"/C/Users/Alumna/Documents/Laboratoria/34_KaneTheme/css/bootstrap.css",
+		"/C/Users/Alumna/Documents/kiNit/QMS/index.html",
+		"/C/Users/Alumna/Documents/Laboratoria/34_KaneTheme/css/queries.css",
+		"/C/Users/Alumna/Documents/Laboratoria/27_Coder/js/scripts.js",
+		"/C/Users/Alumna/Documents/Laboratoria/27_Coder/script/scripts.js",
+		"/C/Users/Alumna/Documents/kiNit/app/wordcloud2.js/index.js",
+		"/C/Users/Alumna/Documents/kiNit/app/scripts.js",
+		"/C/Users/Alumna/Documents/kiNit/app/biblioteca.html",
+		"/C/Users/Alumna/Documents/combo1/nuevoCombo/main.css",
+		"/C/Users/Alumna/Documents/combo1/nuevoCombo/AudioPlayer/AudioPlayer/css/demo.css",
+		"/C/Users/Alumna/Documents/combo1/nuevoCombo/AudioPlayer/AudioPlayer/css/audioplayer.css",
+		"/C/Users/Alumna/Documents/combo1/nuevoCombo/queries.css",
+		"/C/Users/Alumna/Documents/combo1/nuevoCombo/radio/audioplayer.min.js",
+		"/C/Users/Alumna/Documents/combo1/nuevoCombo/AudioPlayer/AudioPlayer/js/jquery.js",
+		"/C/Users/Alumna/Documents/combo1/nuevoCombo/AudioPlayer/AudioPlayer/README.txt",
+		"/C/Users/Alumna/Documents/Laboratoria/39_DOM_II/bicis-locas-lvl2/index.html",
+		"/C/Users/Alumna/Documents/Laboratoria/40_Eventos/Trello/index.html",
+		"/C/Users/Alumna/Documents/Laboratoria/Portafolio/index.html",
+		"/C/Users/Alumna/Documents/kiNit/worldcloud2/wordcloud2.js/index.js",
+		"/C/Users/Alumna/Documents/kiNit/worldcloud2/wordcloud2.js/index.html",
+		"/C/Users/Alumna/Documents/Laboratoria/22_Gentleman/index.html",
+		"/C/Users/Alumna/Documents/combo/images/laura 1111-crop-u466.jpg",
+		"/C/Users/Alumna/Documents/combo/scripts/whatinput.js",
+		"/C/Users/Alumna/Documents/combo/scripts/touchswipe.js",
+		"/C/Users/Alumna/Documents/combo/scripts/require.js",
+		"/C/Users/Alumna/Documents/combo/scripts/musewpslideshow.js",
+		"/C/Users/Alumna/Documents/kiNit/app/wordcloud2.js/src/wordcloud2.js",
+		"/C/Users/Alumna/Documents/kiNit/app/wordcloud2.js",
+		"/C/Users/Alumna/Documents/kiNit/worldcloud2/wordcloud2.js/src/wordcloud2.js",
+		"/C/Users/Alumna/Documents/Laboratoria/Portfolio",
+		"/C/Users/Alumna/Documents/Laboratoria/39_DOM_II/bicis-locas-lvl2/js/main.js",
+		"/C/Users/Alumna/Documents/Laboratoria/41_API/Trello_II/js/main.js",
+		"/C/Users/Alumna/Documents/Laboratoria/41_API/Trello_II/index.html",
+		"/C/Users/Alumna/Documents/kiNit/app/caracteres.html",
+		"/C/Users/Alumna/Documents/kiNit/app/bibli.js",
+		"/C/Users/Alumna/Documents/Laboratoria/39_DOM_II/bicis-locas-lvl2/js/donottouchthisfile.js",
+		"/C/Users/Alumna/Documents/Laboratoria/38_DOM_I/traduccion-formulario/js/main.js",
+		"/C/Users/Alumna/Documents/Laboratoria/38_DOM_I/bicis-locas/js/main.js",
+		"/C/Users/Alumna/Documents/Laboratoria/39_DOM_II/bicis-locas-lvl2/js/main2.js",
+		"/C/Users/Alumna/Documents/kiNit/app/wordclud2.js",
+		"/C/Users/Alumna/Documents/kiNit/worldcloud2/wordcloud2.js/Gruntfile.js",
+		"/C/Users/Alumna/Documents/kiNit/worldcloud2/wordcloud2.js/test/util.js",
+		"/C/Users/Alumna/Documents/kiNit/worldcloud2/wordcloud2.js/test/index.html",
+		"/C/xampp/htdocs/urnas/application/config/routes.php",
+		"/C/xampp/htdocs/urnas/application/controllers/Sections.php",
+		"/C/xampp/htdocs/urnas/application/views/shared/_scripts.php",
+		"/C/xampp/htdocs/urnas/application/views/petfriendly.php",
+		"/C/xampp/htdocs/urnas/public/styles/style.css",
+		"/C/xampp/htdocs/urnas/application/views/shared/_page_title.php",
+		"/C/Users/Alumna/Documents/Laboratoria/34_KaneTheme/js/jquery.js",
+		"/C/xampp/htdocs/greenture/main-files/index.html",
+		"/C/xampp/htdocs/urnas/application/views/stories.php",
+		"/C/xampp/htdocs/greenture/main-files/about.html",
+		"/C/xampp/htdocs/urnas/application/views/shared/_page_subtitle.php",
+		"/C/xampp/htdocs/urnas/application/views/shared/_header_biocard.php",
+		"/C/xampp/htdocs/urnas/application/views/shared/_head_commons.php",
+		"/C/xampp/htdocs/urnas/application/views/shared/_header.php",
+		"/C/xampp/htdocs/urnas/application/views/urnas.php",
+		"/C/xampp/htdocs/urnas/application/views/home.php",
+		"/C/xampp/htdocs/greenture/CodeIgniter/application/views/home.php",
+		"/C/xampp/htdocs/greenture/CodeIgniter/application/config/routes.php",
+		"/C/xampp/htdocs/greenture/CodeIgniter/application/controllers/Controlador.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/xampp/htdocs/urnas/application/.htaccess",
+		"/C/xampp/htdocs/urnas/.htaccess",
+		"/C/xampp/htdocs/kinit/application/views/sections/home.php",
+		"/C/xampp/htdocs/greenture/CodeIgniter/.htaccess",
+		"/C/xampp/htdocs/greenture/CodeIgniter/application/.htaccess",
+		"/C/xampp/htdocs/greenture/CodeIgniter/application/views/shared/two-column-fluid.php",
+		"/C/xampp/htdocs/greenture/CodeIgniter/application/views/shared/parallax-section.php",
+		"/C/xampp/htdocs/greenture/CodeIgniter/public/css/style.css",
+		"/C/xampp/htdocs/greenture/CodeIgniter/application/views/shared/home.php",
+		"/C/xampp/htdocs/greenture/CodeIgniter/application/views/shared/header-upper.php",
+		"/C/xampp/htdocs/greenture/CodeIgniter/application/views/shared/footer-bottom.php",
+		"/C/xampp/htdocs/greenture/CodeIgniter/public/js/jquery.js",
+		"/C/xampp/htdocs/greenture/CodeIgniter/application/views/shared/fluid-section.php",
+		"/C/xampp/htdocs/greenture/CodeIgniter/public/css/jquery.fancybox.css",
+		"/C/xampp/htdocs/greenture/CodeIgniter/public/css/revolution-slider.css",
+		"/C/xampp/htdocs/greenture/CodeIgniter/public/js/map-script.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\greenture\\CodeIgniter",
+			"C:\\xampp\\htdocs\\greenture\\CodeIgniter\\application\\views",
+			"C:\\xampp\\htdocs\\greenture\\CodeIgniter\\public\\js",
+			"C:\\xampp\\htdocs\\greenture\\CodeIgniter\\application\\views",
+			"C:\\xampp\\htdocs\\greenture\\CodeIgniter\\public",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"f-t",
+			"txt-gray",
+			"hover",
+			"mg-tb",
+			"slide",
+			"car",
+			"carr",
+			"prices",
+			"30",
+			"offset",
+			"text-center",
+			"align-center",
+			"center-block",
+			"audio-player",
+			"video",
+			"modal1",
+			"modal",
+			"carous",
+			"carou",
+			"id=\"jp_container_1\"",
+			"audio",
+			"splash",
+			"boletin-uno",
+			"promo",
+			"splash",
+			"container-prom",
+			"container",
+			"container-prom",
+			"splash",
+			"container-prom",
+			"promo-space",
+			"container-pro",
+			"splash",
+			"boletin-uno",
+			"promo-space",
+			"container-promo",
+			"promo",
+			"splash",
+			"promo",
+			"container-promo",
+			"promo-space",
+			"container-promo",
+			"promo-space",
+			"promo",
+			"splash",
+			"overlay",
+			"#navbar",
+			"menu",
+			"dropdown",
+			"nav",
+			"<nav>",
+			"nav",
+			"menu",
+			"bottom",
+			"navbar",
+			"overlay-top",
+			"paddin",
+			"bgnd-white",
+			"overlay-top",
+			"overlay-bottom",
+			"navbar-inverse",
+			"shadow",
+			"navbar-link",
+			"inner-wrapper",
+			"borded-bot",
+			"navbar-header",
+			"logo",
+			"center",
+			"return",
+			"WordCloud(",
+			"WordCloud(document.getElementById('canvas')",
+			"var list",
+			"var = list",
+			"list",
+			"run",
+			"config-mask",
+			"run",
+			"canvas",
+			"options",
+			"$htmlCanvas",
+			"$canvas",
+			"WordCl",
+			"repit",
+			"error",
+			"form-signup",
+			"wordcloud",
+			"wordclud",
+			"wordclud2",
+			"wordclud2.js",
+			"global",
+			"wordcloud",
+			"global",
+			"examples",
+			"taiwan",
+			"col-lg-16",
+			"image-box",
+			"sponsors-slider",
+			"submenu-icon.png",
+			"public/public/images/icons/preloader.GIF",
+			"map-pattern.png",
+			"preloader.gif",
+			"public/public/images",
+			"public/public/images/icons/preloader.GIF",
+			"main-slider/1.jpg",
+			"images",
+			"images/",
+			"public/public/images/",
+			"images/",
+			"src=\"images",
+			"\n<?php include_once \"shared/two-4th-column.php\" ?>\n<?php include_once \"shared/footer-bottom.php\" ?>\n<?php include_once \"shared/donate-popup.php\" ?>\n<?php include_once \"shared/how-much-todonate.php\" ?>\n<?php include_once \"shared/billing-info.php\" ?>\n<?php include_once \"shared/payment-info.php\" ?>\n<?php include_once \"shared/scripts.php\" ?>",
+			"main-fea",
+			"over",
+			"primary",
+			"close",
+			"form",
+			"btn",
+			"t-w",
+			"nuevaTarea",
+			"header",
+			"required",
+			"input-box",
+			"submit",
+			"form-signup",
+			"bounceinleft",
+			"rot",
+			"org",
+			"bg-oop",
+			"navbar"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"public/images/",
+			"src=\"public/images"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\xampp\\htdocs\\greenture"
+		},
+		{
+			"path": "C:\\xampp\\htdocs\\Pruebas"
+		},
+		{
+			"path": "C:\\xampp\\htdocs\\kinit"
+		},
+		{
+			"path": "C:\\xampp\\htdocs\\urnas"
+		},
+		{
+			"path": "C:\\Users\\Alumna\\Documents\\kiNit\\app"
+		},
+		{
+			"path": "C:\\Users\\Alumna\\Documents\\kiNit\\worldcloud2"
+		},
+		{
+			"path": "C:\\Users\\Alumna\\Documents\\Laboratoria\\27_Coder"
+		},
+		{
+			"path": "C:\\Users\\Alumna\\Documents\\kiNit\\QMScopia"
+		},
+		{
+			"path": "C:\\Users\\Alumna\\Documents\\Laboratoria\\34_KaneTheme"
+		},
+		{
+			"path": "C:\\Users\\Alumna\\Documents\\ComboCincoMil"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Alumna/Documents/ComboCincoMil/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5145,
+								5145
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1443.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Alumna/Documents/ComboCincoMil/css/home.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4931,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1609,
+								1609
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 1073.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.570870581266,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

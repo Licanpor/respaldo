@@ -1,0 +1,1331 @@
+Searching 396 files for "product-child"
+
+C:\Users\Alumna\Documents\Liana\kiNit\QMScopia\assets\css\styles.css:
+  490  }
+  491  
+  492: #section-marcas .slide .product-child {
+  493  	display: block !important;
+  494  	height: 500px;
+  ...
+  496  }
+  497  
+  498: #section-marcas .slide .product-child .product,
+  499: #section-categorias .slide .product-child .product  {
+  500  	height: 120px;
+  501  	border: 2px solid #B8B8C7;
+  502  }
+  503  
+  504: #section-categorias .slide .product-child .product-thumb img  {
+  505  	width: 45%;
+  506  	display: block;
+  ...
+  508  }
+  509  
+  510: #section-categorias .slide .product-child {
+  511  	display: block !important;
+  512  	height: 400px;
+
+C:\Users\Alumna\Documents\Liana\kiNit\QMScopia\assets\js\site.js:
+  280              		switch(val.marca) {
+  281              			case 'aaronbovie':
+  282:             				$('.aaronbovie .product-child').append(template);
+  283              			break;
+  284              			
+  285              			case 'huntleigh':
+  286:             				$('.huntleigh .product-child').append(template);
+  287              			break;
+  288              			
+  289              			case 'littmann':
+  290:             				$('.littmann .product-child').append(template);
+  291              			break;
+  292              			
+  293              			case 'metro':
+  294:             				$('.metro .product-child').append(template);
+  295              			break;
+  296              			
+  297              			case 'midmark':
+  298:             				$('.midmark .product-child').append(template);
+  299              			break;
+  300              			
+  301              			case 'miltex':
+  302:             				$('.miltex .product-child').append(template);
+  303              			break;
+  304              			
+  305              			case 'nonin':
+  306:             				$('.nonin .product-child').append(template);
+  307              			break;
+  308              			
+  309              			case 'ricelake':
+  310:             				$('.ricelake .product-child').append(template);
+  311              			break;
+  312              			
+  313              			case 'schiller':
+  314:             				$('.schiller .product-child').append(template);
+  315              			break;
+  316              			
+  317              			case 'seca':
+  318:             				$('.seca .product-child').append(template);
+  319              			break;
+  320              			
+  321              			case 'wallach':
+  322:             				$('.wallach .product-child').append(template);
+  323              			break;
+  324              			
+  325              			case 'welchallyn':
+  326:             				$('.welchallyn .product-child').append(template);
+  327              			break;
+  328              			
+  329              			case 'mortara':
+  330:             				$('.mortara .product-child').append(template);
+  331              			break;
+  332              			
+  333              			case 'philips':
+  334:             				$('.philips .product-child').append(template);
+  335              			break;
+  336              			
+  ...
+  341              		switch(val.categoria) {
+  342              			case 'basculas':
+  343:             				$('.basculas .product-child').append(template);
+  344              			break;
+  345              			
+  346              			case 'carro_rojo':
+  347:             				$('.carro_rojo .product-child').append(template);
+  348              			break;
+  349              			
+  350              			case 'criocirugia':
+  351:             				$('.criocirugia .product-child').append(template);
+  352              			break;
+  353              			
+  354              			case 'desfibriladores':
+  355:             				$('.desfibriladores .product-child').append(template);
+  356              			break;
+  357              			
+  358              			case 'dopplers':
+  359:             				$('.dopplers .product-child').append(template);
+  360              			break;
+  361              			
+  362              			case 'electrocardiografos':
+  363:             				$('.electrocardiografos .product-child').append(template);
+  364              			break;
+  365              			
+  366              			case 'electrocirugia':
+  367:             				$('.electrocirugia .product-child').append(template);
+  368              			break;
+  369              			
+  370              			case 'esfigmomanometros':
+  371:             				$('.esfigmomanometros .product-child').append(template);
+  372              			break;
+  373              			
+  374              			case 'estetoscopios':
+  375:             				$('.estetoscopios .product-child').append(template);
+  376              			break;
+  377              			
+  378              			case 'estuches_diagnostico':
+  379:             				$('.estuches_diagnostico .product-child').append(template);
+  380              			break;
+  381              			
+  382              			case 'espejos_vaginales':
+  383:             				$('.espejos_vaginales .product-child').append(template);
+  384              			break;
+  385              			
+  386              			case 'espirometria':
+  387:             				$('.espirometria .product-child').append(template);
+  388              			break;
+  389              			
+  390              			case 'lamparas_exploracion':
+  391:             				$('.lamparas_exploracion .product-child').append(template);
+  392              			break;
+  393              			
+  394              			case 'lamparas_frontales':
+  395:             				$('.lamparas_frontales .product-child').append(template);
+  396              			break;
+  397              			
+  398              			case 'laringoscopios':
+  399:             				$('.laringoscopios .product-child').append(template);
+  400              			break;
+  401              			
+  402              			case 'mesas':
+  403:             				$('.mesas .product-child').append(template);
+  404              			break;
+  405              			
+  406              			case 'monitores':
+  407:             				$('.monitores .product-child').append(template);
+  408              			break;
+  409              			
+  410              			case 'oximetros':
+  411:             				$('.oximetros .product-child').append(template);
+  412              			break;
+  413              			
+  414              			case 'tococardiografos':
+  415:             				$('.tococardiografos .product-child').append(template);
+  416              			break;
+  417              			
+  418              			case 'nebulizadores':
+  419:             				$('.nebulizadores .product-child').append(template);
+  420              			break;
+  421              			
+  422              			case 'camaras':
+  423:             				$('.camaras .product-child').append(template);
+  424              			break;
+  425              			
+
+C:\Users\Alumna\Documents\Liana\kiNit\QMScopia\FindResults\FindResults_template:
+    1: Searching 395 files for "product-child"
+    2  
+    3  C:\Users\Alumna\Documents\Liana\kiNit\QMScopia\assets\css\styles.css:
+    4    490  }
+    5    491  
+    6:   492: #section-marcas .slide .product-child {
+    7    493  	display: block !important;
+    8    494  	height: 500px;
+    .
+   10    496  }
+   11    497  
+   12:   498: #section-marcas .slide .product-child .product,
+   13:   499: #section-categorias .slide .product-child .product  {
+   14    500  	height: 120px;
+   15    501  	border: 2px solid #B8B8C7;
+   16    502  }
+   17    503  
+   18:   504: #section-categorias .slide .product-child .product-thumb img  {
+   19    505  	width: 45%;
+   20    506  	display: block;
+   ..
+   22    508  }
+   23    509  
+   24:   510: #section-categorias .slide .product-child {
+   25    511  	display: block !important;
+   26    512  	height: 400px;
+   ..
+   29    280              		switch(val.marca) {
+   30    281              			case 'aaronbovie':
+   31:   282:             				$('.aaronbovie .product-child').append(template);
+   32    283              			break;
+   33    284              			
+   34    285              			case 'huntleigh':
+   35:   286:             				$('.huntleigh .product-child').append(template);
+   36    287              			break;
+   37    288              			
+   38    289              			case 'littmann':
+   39:   290:             				$('.littmann .product-child').append(template);
+   40    291              			break;
+   41    292              			
+   42    293              			case 'metro':
+   43:   294:             				$('.metro .product-child').append(template);
+   44    295              			break;
+   45    296              			
+   46    297              			case 'midmark':
+   47:   298:             				$('.midmark .product-child').append(template);
+   48    299              			break;
+   49    300              			
+   50    301              			case 'miltex':
+   51:   302:             				$('.miltex .product-child').append(template);
+   52    303              			break;
+   53    304              			
+   54    305              			case 'nonin':
+   55:   306:             				$('.nonin .product-child').append(template);
+   56    307              			break;
+   57    308              			
+   58    309              			case 'ricelake':
+   59:   310:             				$('.ricelake .product-child').append(template);
+   60    311              			break;
+   61    312              			
+   62    313              			case 'schiller':
+   63:   314:             				$('.schiller .product-child').append(template);
+   64    315              			break;
+   65    316              			
+   66    317              			case 'seca':
+   67:   318:             				$('.seca .product-child').append(template);
+   68    319              			break;
+   69    320              			
+   70    321              			case 'wallach':
+   71:   322:             				$('.wallach .product-child').append(template);
+   72    323              			break;
+   73    324              			
+   74    325              			case 'welchallyn':
+   75:   326:             				$('.welchallyn .product-child').append(template);
+   76    327              			break;
+   77    328              			
+   78    329              			case 'mortara':
+   79:   330:             				$('.mortara .product-child').append(template);
+   80    331              			break;
+   81    332              			
+   82    333              			case 'philips':
+   83:   334:             				$('.philips .product-child').append(template);
+   84    335              			break;
+   85    336              			
+   ..
+   87    341              		switch(val.categoria) {
+   88    342              			case 'basculas':
+   89:   343:             				$('.basculas .product-child').append(template);
+   90    344              			break;
+   91    345              			
+   92    346              			case 'carro_rojo':
+   93:   347:             				$('.carro_rojo .product-child').append(template);
+   94    348              			break;
+   95    349              			
+   96    350              			case 'criocirugia':
+   97:   351:             				$('.criocirugia .product-child').append(template);
+   98    352              			break;
+   99    353              			
+  100    354              			case 'desfibriladores':
+  101:   355:             				$('.desfibriladores .product-child').append(template);
+  102    356              			break;
+  103    357              			
+  104    358              			case 'dopplers':
+  105:   359:             				$('.dopplers .product-child').append(template);
+  106    360              			break;
+  107    361              			
+  108    362              			case 'electrocardiografos':
+  109:   363:             				$('.electrocardiografos .product-child').append(template);
+  110    364              			break;
+  111    365              			
+  112    366              			case 'electrocirugia':
+  113:   367:             				$('.electrocirugia .product-child').append(template);
+  114    368              			break;
+  115    369              			
+  116    370              			case 'esfigmomanometros':
+  117:   371:             				$('.esfigmomanometros .product-child').append(template);
+  118    372              			break;
+  119    373              			
+  120    374              			case 'estetoscopios':
+  121:   375:             				$('.estetoscopios .product-child').append(template);
+  122    376              			break;
+  123    377              			
+  124    378              			case 'estuches_diagnostico':
+  125:   379:             				$('.estuches_diagnostico .product-child').append(template);
+  126    380              			break;
+  127    381              			
+  128    382              			case 'espejos_vaginales':
+  129:   383:             				$('.espejos_vaginales .product-child').append(template);
+  130    384              			break;
+  131    385              			
+  132    386              			case 'espirometria':
+  133:   387:             				$('.espirometria .product-child').append(template);
+  134    388              			break;
+  135    389              			
+  136    390              			case 'lamparas_exploracion':
+  137:   391:             				$('.lamparas_exploracion .product-child').append(template);
+  138    392              			break;
+  139    393              			
+  140    394              			case 'lamparas_frontales':
+  141:   395:             				$('.lamparas_frontales .product-child').append(template);
+  142    396              			break;
+  143    397              			
+  144    398              			case 'laringoscopios':
+  145:   399:             				$('.laringoscopios .product-child').append(template);
+  146    400              			break;
+  147    401              			
+  148    402              			case 'mesas':
+  149:   403:             				$('.mesas .product-child').append(template);
+  150    404              			break;
+  151    405              			
+  152    406              			case 'monitores':
+  153:   407:             				$('.monitores .product-child').append(template);
+  154    408              			break;
+  155    409              			
+  156    410              			case 'oximetros':
+  157:   411:             				$('.oximetros .product-child').append(template);
+  158    412              			break;
+  159    413              			
+  160    414              			case 'tococardiografos':
+  161:   415:             				$('.tococardiografos .product-child').append(template);
+  162    416              			break;
+  163    417              			
+  164    418              			case 'nebulizadores':
+  165:   419:             				$('.nebulizadores .product-child').append(template);
+  166    420              			break;
+  167    421              			
+  168    422              			case 'camaras':
+  169:   423:             				$('.camaras .product-child').append(template);
+  170    424              			break;
+  171    425              			
+  ...
+  174    495  	    					<ul>
+  175    496  	    						<li class="aaronbovie">
+  176:   497: 	    							<ul class="product-child">
+  177    498  	    								
+  178    499  	    							</ul>
+  ...
+  180    539  	    					<ul>
+  181    540  	    						<li class="huntleigh">
+  182:   541: 	    							<ul class="product-child">
+  183    542  	    								
+  184    543  	    							</ul>
+  ...
+  186    581  	    					<ul>
+  187    582  	    						<li class="littmann">
+  188:   583: 	    							<ul class="product-child">
+  189    584  	    								
+  190    585  	    							</ul>
+  ...
+  192    624  	    					<ul>
+  193    625  	    						<li class="metro">
+  194:   626: 	    							<ul class="product-child">
+  195    627  	    								
+  196    628  	    							</ul>
+  ...
+  198    667  	    					<ul>
+  199    668  	    						<li class="midmark">
+  200:   669: 	    							<ul class="product-child">
+  201    670  	    								
+  202    671  	    							</ul>
+  ...
+  204    708  	    					<ul>
+  205    709  	    						<li class="miltex">
+  206:   710: 	    							<ul class="product-child">
+  207    711  	    								
+  208    712  	    							</ul>
+  ...
+  210    751  	    					<ul>
+  211    752  	    						<li class="nonin">
+  212:   753: 	    							<ul class="product-child">
+  213    754  	    								
+  214    755  	    							</ul>
+  ...
+  216    794  	    					<ul>
+  217    795  	    						<li class="ricelake">
+  218:   796: 	    							<ul class="product-child">
+  219    797  	    								
+  220    798  	    							</ul>
+  ...
+  222    840  	    					<ul>
+  223    841  	    						<li class="schiller">
+  224:   842: 	    							<ul class="product-child">
+  225    843  	    								
+  226    844  	    							</ul>
+  ...
+  228    883  	    					<ul>
+  229    884  	    						<li class="seca">
+  230:   885: 	    							<ul class="product-child">
+  231    886  	    								
+  232    887  	    							</ul>
+  ...
+  234    927  	    					<ul>
+  235    928  	    						<li class="wallach">
+  236:   929: 	    							<ul class="product-child">
+  237    930  	    								
+  238    931  	    							</ul>
+  ...
+  240    975  	    					<ul class="col-md-12 no-padding">
+  241    976  	    						<li class="welchallyn col-md-12 no-padding">
+  242:   977: 	    							<ul class="product-child col-md-12 no-padding">
+  243    978  	    								
+  244    979  	    							</ul>
+  ...
+  246   1018  	    					<ul class="col-md-12 no-padding">
+  247   1019  	    						<li class="mortara col-md-12 no-padding">
+  248:  1020: 	    							<ul class="product-child col-md-12 no-padding">
+  249   1021  	    								
+  250   1022  	    							</ul>
+  ...
+  252   1062  	    					<ul class="col-md-12 no-padding">
+  253   1063  	    						<li class="philips col-md-12 no-padding">
+  254:  1064: 	    							<ul class="product-child col-md-12 no-padding">
+  255   1065  	    								
+  256   1066  	    							</ul>
+  ...
+  258   1306  	    						</li>
+  259   1307  	    						<li class="basculas cat-holder col-md-12 no-padding">
+  260:  1308: 	    							<ul class="product-child col-md-12 no-padding">
+  261   1309  	    								
+  262   1310  	    							</ul>
+  ...
+  264   1332  	    						</li>
+  265   1333  	    						<li class="carro_rojo cat-holder col-md-12 no-padding">
+  266:  1334: 	    							<ul class="product-child col-md-12 no-padding">
+  267   1335  	    								
+  268   1336  	    							</ul>
+  ...
+  270   1358  	    						</li>
+  271   1359  	    						<li class="criocirugia cat-holder col-md-12 no-padding">
+  272:  1360: 	    							<ul class="product-child col-md-12 no-padding">
+  273   1361  	    								
+  274   1362  	    							</ul>
+  ...
+  276   1384  	    						</li>
+  277   1385  	    						<li class="desfibriladores cat-holder col-md-12 no-padding">
+  278:  1386: 	    							<ul class="product-child col-md-12 no-padding">
+  279   1387  	    								
+  280   1388  	    							</ul>
+  ...
+  282   1410  	    						</li>
+  283   1411  	    						<li class="dopplers cat-holder col-md-12 no-padding">
+  284:  1412: 	    							<ul class="product-child col-md-12 no-padding">
+  285   1413  	    								
+  286   1414  	    							</ul>
+  ...
+  288   1435  	    						</li>
+  289   1436  	    						<li class="electrocardiografos cat-holder col-md-12 no-padding">
+  290:  1437: 	    							<ul class="product-child col-md-12 no-padding">
+  291   1438  	    								
+  292   1439  	    							</ul>
+  ...
+  294   1461  	    						</li>
+  295   1462  	    						<li class="electrocirugia cat-holder col-md-12 no-padding">
+  296:  1463: 	    							<ul class="product-child col-md-12 no-padding">
+  297   1464  	    								
+  298   1465  	    							</ul>
+  ...
+  300   1487  	    						</li>
+  301   1488  	    						<li class="esfigmomanometros cat-holder col-md-12 no-padding">
+  302:  1489: 	    							<ul class="product-child col-md-12 no-padding">
+  303   1490  	    								
+  304   1491  	    							</ul>
+  ...
+  306   1513  	    						</li>
+  307   1514  	    						<li class="estetoscopios cat-holder col-md-12 no-padding">
+  308:  1515: 	    							<ul class="product-child col-md-12 no-padding">
+  309   1516  	    								
+  310   1517  	    							</ul>
+  ...
+  312   1539  	    						</li>
+  313   1540  	    						<li class="estuches_diagnostico cat-holder col-md-12 no-padding">
+  314:  1541: 	    							<ul class="product-child col-md-12 no-padding">
+  315   1542  	    								
+  316   1543  	    							</ul>
+  ...
+  318   1565  	    						</li>
+  319   1566  	    						<li class="espejos_vaginales cat-holder col-md-12 no-padding">
+  320:  1567: 	    							<ul class="product-child col-md-12 no-padding">
+  321   1568  	    								
+  322   1569  	    							</ul>
+  ...
+  324   1591  	    						</li>
+  325   1592  	    						<li class="espirometria cat-holder col-md-12 no-padding">
+  326:  1593: 	    							<ul class="product-child col-md-12 no-padding">
+  327   1594  	    								
+  328   1595  	    							</ul>
+  ...
+  330   1617  	    						</li>
+  331   1618  	    						<li class="lamparas_exploracion cat-holder col-md-12 no-padding">
+  332:  1619: 	    							<ul class="product-child col-md-12 no-padding">
+  333   1620  	    								
+  334   1621  	    							</ul>
+  ...
+  336   1643  	    						</li>
+  337   1644  	    						<li class="lamparas_frontales cat-holder col-md-12 no-padding">
+  338:  1645: 	    							<ul class="product-child col-md-12 no-padding">
+  339   1646  	    								
+  340   1647  	    							</ul>
+  ...
+  342   1669  	    						</li>
+  343   1670  	    						<li class="laringoscopios cat-holder col-md-12 no-padding">
+  344:  1671: 	    							<ul class="product-child col-md-12 no-padding">
+  345   1672  	    								
+  346   1673  	    							</ul>
+  ...
+  348   1695  	    						</li>
+  349   1696  	    						<li class="mesas cat-holder col-md-12 no-padding">
+  350:  1697: 	    							<ul class="product-child col-md-12 no-padding">
+  351   1698  	    								
+  352   1699  	    							</ul>
+  ...
+  354   1721  	    						</li>
+  355   1722  	    						<li class="monitores cat-holder col-md-12 no-padding">
+  356:  1723: 	    							<ul class="product-child col-md-12 no-padding">
+  357   1724  	    								
+  358   1725  	    							</ul>
+  ...
+  360   1747  	    						</li>
+  361   1748  	    						<li class="oximetros cat-holder col-md-12 no-padding">
+  362:  1749: 	    							<ul class="product-child col-md-12 no-padding">
+  363   1750  	    								
+  364   1751  	    							</ul>
+  ...
+  366   1773  	    						</li>
+  367   1774  	    						<li class="tococardiografos cat-holder col-md-12 no-padding">
+  368:  1775: 	    							<ul class="product-child col-md-12 no-padding">
+  369   1776  	    								
+  370   1777  	    							</ul>
+  ...
+  372   1799  	    						</li>
+  373   1800  	    						<li class="nebulizadores cat-holder col-md-12 no-padding">
+  374:  1801: 	    							<ul class="product-child col-md-12 no-padding">
+  375   1802  	    								
+  376   1803  	    							</ul>
+  ...
+  378   1825  	    						</li>
+  379   1826  	    						<li class="camaras cat-holder col-md-12 no-padding">
+  380:  1827: 	    							<ul class="product-child col-md-12 no-padding">
+  381   1828  	    								
+  382   1829  	    							</ul>
+  ...
+  385    519  	    					<ul>
+  386    520  	    						<li class="aaronbovie">
+  387:   521: 	    							<ul class="product-child">
+  388    522  	    								
+  389    523  	    							</ul>
+  ...
+  391    563  	    					<ul>
+  392    564  	    						<li class="huntleigh">
+  393:   565: 	    							<ul class="product-child">
+  394    566  	    								
+  395    567  	    							</ul>
+  ...
+  397    605  	    					<ul>
+  398    606  	    						<li class="littmann">
+  399:   607: 	    							<ul class="product-child">
+  400    608  	    								
+  401    609  	    							</ul>
+  ...
+  403    648  	    					<ul>
+  404    649  	    						<li class="metro">
+  405:   650: 	    							<ul class="product-child">
+  406    651  	    								
+  407    652  	    							</ul>
+  ...
+  409    691  	    					<ul>
+  410    692  	    						<li class="midmark">
+  411:   693: 	    							<ul class="product-child">
+  412    694  	    								
+  413    695  	    							</ul>
+  ...
+  415    732  	    					<ul>
+  416    733  	    						<li class="miltex">
+  417:   734: 	    							<ul class="product-child">
+  418    735  	    								
+  419    736  	    							</ul>
+  ...
+  421    775  	    					<ul>
+  422    776  	    						<li class="nonin">
+  423:   777: 	    							<ul class="product-child">
+  424    778  	    								
+  425    779  	    							</ul>
+  ...
+  427    818  	    					<ul>
+  428    819  	    						<li class="ricelake">
+  429:   820: 	    							<ul class="product-child">
+  430    821  	    								
+  431    822  	    							</ul>
+  ...
+  433    864  	    					<ul>
+  434    865  	    						<li class="schiller">
+  435:   866: 	    							<ul class="product-child">
+  436    867  	    								
+  437    868  	    							</ul>
+  ...
+  439    907  	    					<ul>
+  440    908  	    						<li class="seca">
+  441:   909: 	    							<ul class="product-child">
+  442    910  	    								
+  443    911  	    							</ul>
+  ...
+  445    951  	    					<ul>
+  446    952  	    						<li class="wallach">
+  447:   953: 	    							<ul class="product-child">
+  448    954  	    								
+  449    955  	    							</ul>
+  ...
+  451    999  	    					<ul class="col-md-12 no-padding">
+  452   1000  	    						<li class="welchallyn col-md-12 no-padding">
+  453:  1001: 	    							<ul class="product-child col-md-12 no-padding">
+  454   1002  	    								
+  455   1003  	    							</ul>
+  ...
+  457   1042  	    					<ul class="col-md-12 no-padding">
+  458   1043  	    						<li class="mortara col-md-12 no-padding">
+  459:  1044: 	    							<ul class="product-child col-md-12 no-padding">
+  460   1045  	    								
+  461   1046  	    							</ul>
+  ...
+  463   1086  	    					<ul class="col-md-12 no-padding">
+  464   1087  	    						<li class="philips col-md-12 no-padding">
+  465:  1088: 	    							<ul class="product-child col-md-12 no-padding">
+  466   1089  	    								
+  467   1090  	    							</ul>
+  ...
+  469   1330  	    						</li>
+  470   1331  	    						<li class="basculas cat-holder col-md-12 no-padding">
+  471:  1332: 	    							<ul class="product-child col-md-12 no-padding">
+  472   1333  	    								
+  473   1334  	    							</ul>
+  ...
+  475   1356  	    						</li>
+  476   1357  	    						<li class="carro_rojo cat-holder col-md-12 no-padding">
+  477:  1358: 	    							<ul class="product-child col-md-12 no-padding">
+  478   1359  	    								
+  479   1360  	    							</ul>
+  ...
+  481   1382  	    						</li>
+  482   1383  	    						<li class="criocirugia cat-holder col-md-12 no-padding">
+  483:  1384: 	    							<ul class="product-child col-md-12 no-padding">
+  484   1385  	    								
+  485   1386  	    							</ul>
+  ...
+  487   1408  	    						</li>
+  488   1409  	    						<li class="desfibriladores cat-holder col-md-12 no-padding">
+  489:  1410: 	    							<ul class="product-child col-md-12 no-padding">
+  490   1411  	    								
+  491   1412  	    							</ul>
+  ...
+  493   1434  	    						</li>
+  494   1435  	    						<li class="dopplers cat-holder col-md-12 no-padding">
+  495:  1436: 	    							<ul class="product-child col-md-12 no-padding">
+  496   1437  	    								
+  497   1438  	    							</ul>
+  ...
+  499   1459  	    						</li>
+  500   1460  	    						<li class="electrocardiografos cat-holder col-md-12 no-padding">
+  501:  1461: 	    							<ul class="product-child col-md-12 no-padding">
+  502   1462  	    								
+  503   1463  	    							</ul>
+  ...
+  505   1485  	    						</li>
+  506   1486  	    						<li class="electrocirugia cat-holder col-md-12 no-padding">
+  507:  1487: 	    							<ul class="product-child col-md-12 no-padding">
+  508   1488  	    								
+  509   1489  	    							</ul>
+  ...
+  511   1511  	    						</li>
+  512   1512  	    						<li class="esfigmomanometros cat-holder col-md-12 no-padding">
+  513:  1513: 	    							<ul class="product-child col-md-12 no-padding">
+  514   1514  	    								
+  515   1515  	    							</ul>
+  ...
+  517   1537  	    						</li>
+  518   1538  	    						<li class="estetoscopios cat-holder col-md-12 no-padding">
+  519:  1539: 	    							<ul class="product-child col-md-12 no-padding">
+  520   1540  	    								
+  521   1541  	    							</ul>
+  ...
+  523   1563  	    						</li>
+  524   1564  	    						<li class="estuches_diagnostico cat-holder col-md-12 no-padding">
+  525:  1565: 	    							<ul class="product-child col-md-12 no-padding">
+  526   1566  	    								
+  527   1567  	    							</ul>
+  ...
+  529   1589  	    						</li>
+  530   1590  	    						<li class="espejos_vaginales cat-holder col-md-12 no-padding">
+  531:  1591: 	    							<ul class="product-child col-md-12 no-padding">
+  532   1592  	    								
+  533   1593  	    							</ul>
+  ...
+  535   1615  	    						</li>
+  536   1616  	    						<li class="espirometria cat-holder col-md-12 no-padding">
+  537:  1617: 	    							<ul class="product-child col-md-12 no-padding">
+  538   1618  	    								
+  539   1619  	    							</ul>
+  ...
+  541   1641  	    						</li>
+  542   1642  	    						<li class="lamparas_exploracion cat-holder col-md-12 no-padding">
+  543:  1643: 	    							<ul class="product-child col-md-12 no-padding">
+  544   1644  	    								
+  545   1645  	    							</ul>
+  ...
+  547   1667  	    						</li>
+  548   1668  	    						<li class="lamparas_frontales cat-holder col-md-12 no-padding">
+  549:  1669: 	    							<ul class="product-child col-md-12 no-padding">
+  550   1670  	    								
+  551   1671  	    							</ul>
+  ...
+  553   1693  	    						</li>
+  554   1694  	    						<li class="laringoscopios cat-holder col-md-12 no-padding">
+  555:  1695: 	    							<ul class="product-child col-md-12 no-padding">
+  556   1696  	    								
+  557   1697  	    							</ul>
+  ...
+  559   1719  	    						</li>
+  560   1720  	    						<li class="mesas cat-holder col-md-12 no-padding">
+  561:  1721: 	    							<ul class="product-child col-md-12 no-padding">
+  562   1722  	    								
+  563   1723  	    							</ul>
+  ...
+  565   1745  	    						</li>
+  566   1746  	    						<li class="monitores cat-holder col-md-12 no-padding">
+  567:  1747: 	    							<ul class="product-child col-md-12 no-padding">
+  568   1748  	    								
+  569   1749  	    							</ul>
+  ...
+  571   1771  	    						</li>
+  572   1772  	    						<li class="oximetros cat-holder col-md-12 no-padding">
+  573:  1773: 	    							<ul class="product-child col-md-12 no-padding">
+  574   1774  	    								
+  575   1775  	    							</ul>
+  ...
+  577   1797  	    						</li>
+  578   1798  	    						<li class="tococardiografos cat-holder col-md-12 no-padding">
+  579:  1799: 	    							<ul class="product-child col-md-12 no-padding">
+  580   1800  	    								
+  581   1801  	    							</ul>
+  ...
+  583   1823  	    						</li>
+  584   1824  	    						<li class="nebulizadores cat-holder col-md-12 no-padding">
+  585:  1825: 	    							<ul class="product-child col-md-12 no-padding">
+  586   1826  	    								
+  587   1827  	    							</ul>
+  ...
+  589   1849  	    						</li>
+  590   1850  	    						<li class="camaras cat-holder col-md-12 no-padding">
+  591:  1851: 	    							<ul class="product-child col-md-12 no-padding">
+  592   1852  	    								
+  593   1853  	    							</ul>
+  ...
+  609    280              		switch(val.marca) {
+  610    281              			case 'aaronbovie':
+  611:   282:             				$('.aaronbovie .product-child').append(template);
+  612    283              			break;
+  613    284              			
+  614    285              			case 'huntleigh':
+  615:   286:             				$('.huntleigh .product-child').append(template);
+  616    287              			break;
+  617    288              			
+  618    289              			case 'littmann':
+  619:   290:             				$('.littmann .product-child').append(template);
+  620    291              			break;
+  621    292              			
+  622    293              			case 'metro':
+  623:   294:             				$('.metro .product-child').append(template);
+  624    295              			break;
+  625    296              			
+  626    297              			case 'midmark':
+  627:   298:             				$('.midmark .product-child').append(template);
+  628    299              			break;
+  629    300              			
+  630    301              			case 'miltex':
+  631:   302:             				$('.miltex .product-child').append(template);
+  632    303              			break;
+  633    304              			
+  634    305              			case 'nonin':
+  635:   306:             				$('.nonin .product-child').append(template);
+  636    307              			break;
+  637    308              			
+  638    309              			case 'ricelake':
+  639:   310:             				$('.ricelake .product-child').append(template);
+  640    311              			break;
+  641    312              			
+  642    313              			case 'schiller':
+  643:   314:             				$('.schiller .product-child').append(template);
+  644    315              			break;
+  645    316              			
+  646    317              			case 'seca':
+  647:   318:             				$('.seca .product-child').append(template);
+  648    319              			break;
+  649    320              			
+  650    321              			case 'wallach':
+  651:   322:             				$('.wallach .product-child').append(template);
+  652    323              			break;
+  653    324              			
+  654    325              			case 'welchallyn':
+  655:   326:             				$('.welchallyn .product-child').append(template);
+  656    327              			break;
+  657    328              			
+  658    329              			case 'mortara':
+  659:   330:             				$('.mortara .product-child').append(template);
+  660    331              			break;
+  661    332              			
+  662    333              			case 'philips':
+  663:   334:             				$('.philips .product-child').append(template);
+  664    335              			break;
+  665    336              			
+  ...
+  667    341              		switch(val.categoria) {
+  668    342              			case 'basculas':
+  669:   343:             				$('.basculas .product-child').append(template);
+  670    344              			break;
+  671    345              			
+  672    346              			case 'carro_rojo':
+  673:   347:             				$('.carro_rojo .product-child').append(template);
+  674    348              			break;
+  675    349              			
+  676    350              			case 'criocirugia':
+  677:   351:             				$('.criocirugia .product-child').append(template);
+  678    352              			break;
+  679    353              			
+  680    354              			case 'desfibriladores':
+  681:   355:             				$('.desfibriladores .product-child').append(template);
+  682    356              			break;
+  683    357              			
+  684    358              			case 'dopplers':
+  685:   359:             				$('.dopplers .product-child').append(template);
+  686    360              			break;
+  687    361              			
+  688    362              			case 'electrocardiografos':
+  689:   363:             				$('.electrocardiografos .product-child').append(template);
+  690    364              			break;
+  691    365              			
+  692    366              			case 'electrocirugia':
+  693:   367:             				$('.electrocirugia .product-child').append(template);
+  694    368              			break;
+  695    369              			
+  696    370              			case 'esfigmomanometros':
+  697:   371:             				$('.esfigmomanometros .product-child').append(template);
+  698    372              			break;
+  699    373              			
+  700    374              			case 'estetoscopios':
+  701:   375:             				$('.estetoscopios .product-child').append(template);
+  702    376              			break;
+  703    377              			
+  704    378              			case 'estuches_diagnostico':
+  705:   379:             				$('.estuches_diagnostico .product-child').append(template);
+  706    380              			break;
+  707    381              			
+  708    382              			case 'espejos_vaginales':
+  709:   383:             				$('.espejos_vaginales .product-child').append(template);
+  710    384              			break;
+  711    385              			
+  712    386              			case 'espirometria':
+  713:   387:             				$('.espirometria .product-child').append(template);
+  714    388              			break;
+  715    389              			
+  716    390              			case 'lamparas_exploracion':
+  717:   391:             				$('.lamparas_exploracion .product-child').append(template);
+  718    392              			break;
+  719    393              			
+  720    394              			case 'lamparas_frontales':
+  721:   395:             				$('.lamparas_frontales .product-child').append(template);
+  722    396              			break;
+  723    397              			
+  724    398              			case 'laringoscopios':
+  725:   399:             				$('.laringoscopios .product-child').append(template);
+  726    400              			break;
+  727    401              			
+  728    402              			case 'mesas':
+  729:   403:             				$('.mesas .product-child').append(template);
+  730    404              			break;
+  731    405              			
+  732    406              			case 'monitores':
+  733:   407:             				$('.monitores .product-child').append(template);
+  734    408              			break;
+  735    409              			
+  736    410              			case 'oximetros':
+  737:   411:             				$('.oximetros .product-child').append(template);
+  738    412              			break;
+  739    413              			
+  740    414              			case 'tococardiografos':
+  741:   415:             				$('.tococardiografos .product-child').append(template);
+  742    416              			break;
+  743    417              			
+  744    418              			case 'nebulizadores':
+  745:   419:             				$('.nebulizadores .product-child').append(template);
+  746    420              			break;
+  747    421              			
+  748    422              			case 'camaras':
+  749:   423:             				$('.camaras .product-child').append(template);
+  750    424              			break;
+  751    425              			
+
+C:\Users\Alumna\Documents\Liana\kiNit\QMScopia\index.html:
+  495  	    					<ul>
+  496  	    						<li class="aaronbovie">
+  497: 	    							<ul class="product-child">
+  498  	    								
+  499  	    							</ul>
+  ...
+  539  	    					<ul>
+  540  	    						<li class="huntleigh">
+  541: 	    							<ul class="product-child">
+  542  	    								
+  543  	    							</ul>
+  ...
+  581  	    					<ul>
+  582  	    						<li class="littmann">
+  583: 	    							<ul class="product-child">
+  584  	    								
+  585  	    							</ul>
+  ...
+  624  	    					<ul>
+  625  	    						<li class="metro">
+  626: 	    							<ul class="product-child">
+  627  	    								
+  628  	    							</ul>
+  ...
+  667  	    					<ul>
+  668  	    						<li class="midmark">
+  669: 	    							<ul class="product-child">
+  670  	    								
+  671  	    							</ul>
+  ...
+  708  	    					<ul>
+  709  	    						<li class="miltex">
+  710: 	    							<ul class="product-child">
+  711  	    								
+  712  	    							</ul>
+  ...
+  751  	    					<ul>
+  752  	    						<li class="nonin">
+  753: 	    							<ul class="product-child">
+  754  	    								
+  755  	    							</ul>
+  ...
+  794  	    					<ul>
+  795  	    						<li class="ricelake">
+  796: 	    							<ul class="product-child">
+  797  	    								
+  798  	    							</ul>
+  ...
+  840  	    					<ul>
+  841  	    						<li class="schiller">
+  842: 	    							<ul class="product-child">
+  843  	    								
+  844  	    							</ul>
+  ...
+  883  	    					<ul>
+  884  	    						<li class="seca">
+  885: 	    							<ul class="product-child">
+  886  	    								
+  887  	    							</ul>
+  ...
+  927  	    					<ul>
+  928  	    						<li class="wallach">
+  929: 	    							<ul class="product-child">
+  930  	    								
+  931  	    							</ul>
+  ...
+  975  	    					<ul class="col-md-12 no-padding">
+  976  	    						<li class="welchallyn col-md-12 no-padding">
+  977: 	    							<ul class="product-child col-md-12 no-padding">
+  978  	    								
+  979  	    							</ul>
+  ...
+ 1018  	    					<ul class="col-md-12 no-padding">
+ 1019  	    						<li class="mortara col-md-12 no-padding">
+ 1020: 	    							<ul class="product-child col-md-12 no-padding">
+ 1021  	    								
+ 1022  	    							</ul>
+ ....
+ 1062  	    					<ul class="col-md-12 no-padding">
+ 1063  	    						<li class="philips col-md-12 no-padding">
+ 1064: 	    							<ul class="product-child col-md-12 no-padding">
+ 1065  	    								
+ 1066  	    							</ul>
+ ....
+ 1306  	    						</li>
+ 1307  	    						<li class="basculas cat-holder col-md-12 no-padding">
+ 1308: 	    							<ul class="product-child col-md-12 no-padding">
+ 1309  	    								
+ 1310  	    							</ul>
+ ....
+ 1332  	    						</li>
+ 1333  	    						<li class="carro_rojo cat-holder col-md-12 no-padding">
+ 1334: 	    							<ul class="product-child col-md-12 no-padding">
+ 1335  	    								
+ 1336  	    							</ul>
+ ....
+ 1358  	    						</li>
+ 1359  	    						<li class="criocirugia cat-holder col-md-12 no-padding">
+ 1360: 	    							<ul class="product-child col-md-12 no-padding">
+ 1361  	    								
+ 1362  	    							</ul>
+ ....
+ 1384  	    						</li>
+ 1385  	    						<li class="desfibriladores cat-holder col-md-12 no-padding">
+ 1386: 	    							<ul class="product-child col-md-12 no-padding">
+ 1387  	    								
+ 1388  	    							</ul>
+ ....
+ 1410  	    						</li>
+ 1411  	    						<li class="dopplers cat-holder col-md-12 no-padding">
+ 1412: 	    							<ul class="product-child col-md-12 no-padding">
+ 1413  	    								
+ 1414  	    							</ul>
+ ....
+ 1435  	    						</li>
+ 1436  	    						<li class="electrocardiografos cat-holder col-md-12 no-padding">
+ 1437: 	    							<ul class="product-child col-md-12 no-padding">
+ 1438  	    								
+ 1439  	    							</ul>
+ ....
+ 1461  	    						</li>
+ 1462  	    						<li class="electrocirugia cat-holder col-md-12 no-padding">
+ 1463: 	    							<ul class="product-child col-md-12 no-padding">
+ 1464  	    								
+ 1465  	    							</ul>
+ ....
+ 1487  	    						</li>
+ 1488  	    						<li class="esfigmomanometros cat-holder col-md-12 no-padding">
+ 1489: 	    							<ul class="product-child col-md-12 no-padding">
+ 1490  	    								
+ 1491  	    							</ul>
+ ....
+ 1513  	    						</li>
+ 1514  	    						<li class="estetoscopios cat-holder col-md-12 no-padding">
+ 1515: 	    							<ul class="product-child col-md-12 no-padding">
+ 1516  	    								
+ 1517  	    							</ul>
+ ....
+ 1539  	    						</li>
+ 1540  	    						<li class="estuches_diagnostico cat-holder col-md-12 no-padding">
+ 1541: 	    							<ul class="product-child col-md-12 no-padding">
+ 1542  	    								
+ 1543  	    							</ul>
+ ....
+ 1565  	    						</li>
+ 1566  	    						<li class="espejos_vaginales cat-holder col-md-12 no-padding">
+ 1567: 	    							<ul class="product-child col-md-12 no-padding">
+ 1568  	    								
+ 1569  	    							</ul>
+ ....
+ 1591  	    						</li>
+ 1592  	    						<li class="espirometria cat-holder col-md-12 no-padding">
+ 1593: 	    							<ul class="product-child col-md-12 no-padding">
+ 1594  	    								
+ 1595  	    							</ul>
+ ....
+ 1617  	    						</li>
+ 1618  	    						<li class="lamparas_exploracion cat-holder col-md-12 no-padding">
+ 1619: 	    							<ul class="product-child col-md-12 no-padding">
+ 1620  	    								
+ 1621  	    							</ul>
+ ....
+ 1643  	    						</li>
+ 1644  	    						<li class="lamparas_frontales cat-holder col-md-12 no-padding">
+ 1645: 	    							<ul class="product-child col-md-12 no-padding">
+ 1646  	    								
+ 1647  	    							</ul>
+ ....
+ 1669  	    						</li>
+ 1670  	    						<li class="laringoscopios cat-holder col-md-12 no-padding">
+ 1671: 	    							<ul class="product-child col-md-12 no-padding">
+ 1672  	    								
+ 1673  	    							</ul>
+ ....
+ 1695  	    						</li>
+ 1696  	    						<li class="mesas cat-holder col-md-12 no-padding">
+ 1697: 	    							<ul class="product-child col-md-12 no-padding">
+ 1698  	    								
+ 1699  	    							</ul>
+ ....
+ 1721  	    						</li>
+ 1722  	    						<li class="monitores cat-holder col-md-12 no-padding">
+ 1723: 	    							<ul class="product-child col-md-12 no-padding">
+ 1724  	    								
+ 1725  	    							</ul>
+ ....
+ 1747  	    						</li>
+ 1748  	    						<li class="oximetros cat-holder col-md-12 no-padding">
+ 1749: 	    							<ul class="product-child col-md-12 no-padding">
+ 1750  	    								
+ 1751  	    							</ul>
+ ....
+ 1773  	    						</li>
+ 1774  	    						<li class="tococardiografos cat-holder col-md-12 no-padding">
+ 1775: 	    							<ul class="product-child col-md-12 no-padding">
+ 1776  	    								
+ 1777  	    							</ul>
+ ....
+ 1799  	    						</li>
+ 1800  	    						<li class="nebulizadores cat-holder col-md-12 no-padding">
+ 1801: 	    							<ul class="product-child col-md-12 no-padding">
+ 1802  	    								
+ 1803  	    							</ul>
+ ....
+ 1825  	    						</li>
+ 1826  	    						<li class="camaras cat-holder col-md-12 no-padding">
+ 1827: 	    							<ul class="product-child col-md-12 no-padding">
+ 1828  	    								
+ 1829  	    							</ul>
+
+C:\Users\Alumna\Documents\Liana\kiNit\QMScopia\testing.html:
+  519  	    					<ul>
+  520  	    						<li class="aaronbovie">
+  521: 	    							<ul class="product-child">
+  522  	    								
+  523  	    							</ul>
+  ...
+  563  	    					<ul>
+  564  	    						<li class="huntleigh">
+  565: 	    							<ul class="product-child">
+  566  	    								
+  567  	    							</ul>
+  ...
+  605  	    					<ul>
+  606  	    						<li class="littmann">
+  607: 	    							<ul class="product-child">
+  608  	    								
+  609  	    							</ul>
+  ...
+  648  	    					<ul>
+  649  	    						<li class="metro">
+  650: 	    							<ul class="product-child">
+  651  	    								
+  652  	    							</ul>
+  ...
+  691  	    					<ul>
+  692  	    						<li class="midmark">
+  693: 	    							<ul class="product-child">
+  694  	    								
+  695  	    							</ul>
+  ...
+  732  	    					<ul>
+  733  	    						<li class="miltex">
+  734: 	    							<ul class="product-child">
+  735  	    								
+  736  	    							</ul>
+  ...
+  775  	    					<ul>
+  776  	    						<li class="nonin">
+  777: 	    							<ul class="product-child">
+  778  	    								
+  779  	    							</ul>
+  ...
+  818  	    					<ul>
+  819  	    						<li class="ricelake">
+  820: 	    							<ul class="product-child">
+  821  	    								
+  822  	    							</ul>
+  ...
+  864  	    					<ul>
+  865  	    						<li class="schiller">
+  866: 	    							<ul class="product-child">
+  867  	    								
+  868  	    							</ul>
+  ...
+  907  	    					<ul>
+  908  	    						<li class="seca">
+  909: 	    							<ul class="product-child">
+  910  	    								
+  911  	    							</ul>
+  ...
+  951  	    					<ul>
+  952  	    						<li class="wallach">
+  953: 	    							<ul class="product-child">
+  954  	    								
+  955  	    							</ul>
+  ...
+  999  	    					<ul class="col-md-12 no-padding">
+ 1000  	    						<li class="welchallyn col-md-12 no-padding">
+ 1001: 	    							<ul class="product-child col-md-12 no-padding">
+ 1002  	    								
+ 1003  	    							</ul>
+ ....
+ 1042  	    					<ul class="col-md-12 no-padding">
+ 1043  	    						<li class="mortara col-md-12 no-padding">
+ 1044: 	    							<ul class="product-child col-md-12 no-padding">
+ 1045  	    								
+ 1046  	    							</ul>
+ ....
+ 1086  	    					<ul class="col-md-12 no-padding">
+ 1087  	    						<li class="philips col-md-12 no-padding">
+ 1088: 	    							<ul class="product-child col-md-12 no-padding">
+ 1089  	    								
+ 1090  	    							</ul>
+ ....
+ 1330  	    						</li>
+ 1331  	    						<li class="basculas cat-holder col-md-12 no-padding">
+ 1332: 	    							<ul class="product-child col-md-12 no-padding">
+ 1333  	    								
+ 1334  	    							</ul>
+ ....
+ 1356  	    						</li>
+ 1357  	    						<li class="carro_rojo cat-holder col-md-12 no-padding">
+ 1358: 	    							<ul class="product-child col-md-12 no-padding">
+ 1359  	    								
+ 1360  	    							</ul>
+ ....
+ 1382  	    						</li>
+ 1383  	    						<li class="criocirugia cat-holder col-md-12 no-padding">
+ 1384: 	    							<ul class="product-child col-md-12 no-padding">
+ 1385  	    								
+ 1386  	    							</ul>
+ ....
+ 1408  	    						</li>
+ 1409  	    						<li class="desfibriladores cat-holder col-md-12 no-padding">
+ 1410: 	    							<ul class="product-child col-md-12 no-padding">
+ 1411  	    								
+ 1412  	    							</ul>
+ ....
+ 1434  	    						</li>
+ 1435  	    						<li class="dopplers cat-holder col-md-12 no-padding">
+ 1436: 	    							<ul class="product-child col-md-12 no-padding">
+ 1437  	    								
+ 1438  	    							</ul>
+ ....
+ 1459  	    						</li>
+ 1460  	    						<li class="electrocardiografos cat-holder col-md-12 no-padding">
+ 1461: 	    							<ul class="product-child col-md-12 no-padding">
+ 1462  	    								
+ 1463  	    							</ul>
+ ....
+ 1485  	    						</li>
+ 1486  	    						<li class="electrocirugia cat-holder col-md-12 no-padding">
+ 1487: 	    							<ul class="product-child col-md-12 no-padding">
+ 1488  	    								
+ 1489  	    							</ul>
+ ....
+ 1511  	    						</li>
+ 1512  	    						<li class="esfigmomanometros cat-holder col-md-12 no-padding">
+ 1513: 	    							<ul class="product-child col-md-12 no-padding">
+ 1514  	    								
+ 1515  	    							</ul>
+ ....
+ 1537  	    						</li>
+ 1538  	    						<li class="estetoscopios cat-holder col-md-12 no-padding">
+ 1539: 	    							<ul class="product-child col-md-12 no-padding">
+ 1540  	    								
+ 1541  	    							</ul>
+ ....
+ 1563  	    						</li>
+ 1564  	    						<li class="estuches_diagnostico cat-holder col-md-12 no-padding">
+ 1565: 	    							<ul class="product-child col-md-12 no-padding">
+ 1566  	    								
+ 1567  	    							</ul>
+ ....
+ 1589  	    						</li>
+ 1590  	    						<li class="espejos_vaginales cat-holder col-md-12 no-padding">
+ 1591: 	    							<ul class="product-child col-md-12 no-padding">
+ 1592  	    								
+ 1593  	    							</ul>
+ ....
+ 1615  	    						</li>
+ 1616  	    						<li class="espirometria cat-holder col-md-12 no-padding">
+ 1617: 	    							<ul class="product-child col-md-12 no-padding">
+ 1618  	    								
+ 1619  	    							</ul>
+ ....
+ 1641  	    						</li>
+ 1642  	    						<li class="lamparas_exploracion cat-holder col-md-12 no-padding">
+ 1643: 	    							<ul class="product-child col-md-12 no-padding">
+ 1644  	    								
+ 1645  	    							</ul>
+ ....
+ 1667  	    						</li>
+ 1668  	    						<li class="lamparas_frontales cat-holder col-md-12 no-padding">
+ 1669: 	    							<ul class="product-child col-md-12 no-padding">
+ 1670  	    								
+ 1671  	    							</ul>
+ ....
+ 1693  	    						</li>
+ 1694  	    						<li class="laringoscopios cat-holder col-md-12 no-padding">
+ 1695: 	    							<ul class="product-child col-md-12 no-padding">
+ 1696  	    								
+ 1697  	    							</ul>
+ ....
+ 1719  	    						</li>
+ 1720  	    						<li class="mesas cat-holder col-md-12 no-padding">
+ 1721: 	    							<ul class="product-child col-md-12 no-padding">
+ 1722  	    								
+ 1723  	    							</ul>
+ ....
+ 1745  	    						</li>
+ 1746  	    						<li class="monitores cat-holder col-md-12 no-padding">
+ 1747: 	    							<ul class="product-child col-md-12 no-padding">
+ 1748  	    								
+ 1749  	    							</ul>
+ ....
+ 1771  	    						</li>
+ 1772  	    						<li class="oximetros cat-holder col-md-12 no-padding">
+ 1773: 	    							<ul class="product-child col-md-12 no-padding">
+ 1774  	    								
+ 1775  	    							</ul>
+ ....
+ 1797  	    						</li>
+ 1798  	    						<li class="tococardiografos cat-holder col-md-12 no-padding">
+ 1799: 	    							<ul class="product-child col-md-12 no-padding">
+ 1800  	    								
+ 1801  	    							</ul>
+ ....
+ 1823  	    						</li>
+ 1824  	    						<li class="nebulizadores cat-holder col-md-12 no-padding">
+ 1825: 	    							<ul class="product-child col-md-12 no-padding">
+ 1826  	    								
+ 1827  	    							</ul>
+ ....
+ 1849  	    						</li>
+ 1850  	    						<li class="camaras cat-holder col-md-12 no-padding">
+ 1851: 	    							<ul class="product-child col-md-12 no-padding">
+ 1852  	    								
+ 1853  	    							</ul>
+
+256 matches across 5 files

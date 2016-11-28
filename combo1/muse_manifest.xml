@@ -1,0 +1,76 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="combo.com" resolutions="1x" timestamp="1479095899126">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-p_g_-maestra.css" crc="3775310737" ref="contacto:imagen:audio:radio:index:multimedia:video"/>
+    <file name="contacto.css" crc="3881788296" ref="contacto"/>
+    <file name="imagen.css" crc="101009070" ref="imagen"/>
+    <file name="audio.css" crc="101009070" ref="audio"/>
+    <file name="radio.css" crc="101009070" ref="radio"/>
+    <file name="index.css" crc="3873660712" ref="index"/>
+    <file name="multimedia.css" crc="101009070" ref="multimedia"/>
+    <file name="video.css" crc="101009070" ref="video"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:multimedia:radio:contacto:audio:video:imagen"/>
+    <file name="museutils.js" crc="163421577" ref="index:multimedia:radio:contacto:audio:video:imagen"/>
+    <file name="whatinput.js" crc="86476730" ref="index:multimedia:radio:contacto:audio:video:imagen"/>
+    <file name="museconfig.js" crc="36584860" ref="index:multimedia:radio:contacto:audio:video:imagen"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:multimedia:radio:contacto:audio:video:imagen"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:multimedia:radio:contacto:audio:video:imagen"/>
+    <file name="webpro.js" crc="3848665353" ref="index:contacto"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:multimedia:radio:contacto:audio:video:imagen"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:multimedia:radio:contacto:audio:video:imagen"/>
+    <file name="require.js" crc="244322403" ref="index:multimedia:radio:contacto:audio:video:imagen"/>
+    <file name="form_check.php" crc="158155501" ref="contacto"/>
+    <file name="form_throttle.php" crc="3992970984" ref="contacto"/>
+    <file name="form_process.php" crc="4078697226" ref="contacto"/>
+    <file name="form-u545.php" crc="185148849" ref="contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="327449716" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:multimedia:radio:contacto:audio:video:imagen"/>
+    <file name="u154.png" crc="4175312571" ref="index:multimedia:radio:contacto:audio:video:imagen"/>
+    <file name="u154-a.png" crc="3885598000" ref="index:multimedia:radio:contacto:audio:video:imagen"/>
+    <file name="u161.png" crc="357433218" ref="index:multimedia:radio:contacto:audio:video:imagen"/>
+    <file name="u161-a.png" crc="3772616715" ref="index:multimedia:radio:contacto:audio:video:imagen"/>
+    <file name="arrowmenudown.png" crc="262559161" ref="index"/>
+    <file name="u877.png" crc="4179892213" ref="index:multimedia:radio:contacto:audio:video:imagen"/>
+    <file name="u877-r.png" crc="4255209122" ref="index:multimedia:radio:contacto:audio:video:imagen"/>
+    <file name="u877-a.png" crc="4255209122" ref="index:multimedia:radio:contacto:audio:video:imagen"/>
+    <file name="u897.png" crc="256482625" ref="index:multimedia:radio:contacto:audio:video:imagen"/>
+    <file name="u897-r.png" crc="341468376" ref="index:multimedia:radio:contacto:audio:video:imagen"/>
+    <file name="u897-a.png" crc="341468376" ref="index:multimedia:radio:contacto:audio:video:imagen"/>
+    <file name="u916.png" crc="363813518" ref="index:multimedia:radio:contacto:audio:video:imagen"/>
+    <file name="u916-r.png" crc="3987852702" ref="index:multimedia:radio:contacto:audio:video:imagen"/>
+    <file name="u916-a.png" crc="3987852702" ref="index:multimedia:radio:contacto:audio:video:imagen"/>
+    <file name="u199.png" crc="134128440" ref="index:multimedia:radio:contacto:audio:video:imagen"/>
+    <file name="u199-a.png" crc="278700710" ref="index:multimedia:radio:contacto:audio:video:imagen"/>
+    <file name="u228.png" crc="4235458317" ref="index:multimedia:radio:contacto:audio:video:imagen"/>
+    <file name="u228-a.png" crc="4448068" ref="index:multimedia:radio:contacto:audio:video:imagen"/>
+    <file name="reproductpr.png" crc="21336665" ref="index"/>
+    <file name="imagen pegada 532x270.png" crc="3950392948" seo="true" ref="index"/>
+    <file name="u680-4.png" crc="327587246" ref="index"/>
+    <file name="u676-4.png" crc="118103594" ref="index"/>
+    <file name="u686-4.png" crc="492704320" ref="index"/>
+    <file name="captura de pantalla 2016-11-13 a las 103253 pm.jpg" crc="3768071048" ref="index"/>
+    <file name="captura de pantalla 2016-11-13 a las 103638 pm.jpg" crc="211247455" ref="index"/>
+    <file name="familia ramona 21111-crop-u330.jpg" crc="133972418" ref="index"/>
+    <file name="batucada 31111.jpg" crc="4040866295" seo="true" ref="index"/>
+    <file name="laura 1111-crop-u466.jpg" crc="3934165751" ref="index"/>
+    <file name="expresart 1111-crop-u492.jpg" crc="480347101" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="redes-sociales.png" crc="3816792585" ref="index"/>
+    <file name="laplata.jpg" crc="4011621450" ref="index:multimedia:radio:contacto:audio:video:imagen"/>
+  </folder>
+  <file name="index.html" crc="311212083" seo="true" mt="1479095804506" redirect="true"/>
+  <file name="multimedia.html" crc="4111736746" seo="true" mt="1479095313139" redirect="true"/>
+  <file name="radio.html" crc="386736600" seo="true" mt="1479095313139" redirect="true"/>
+  <file name="contacto.html" crc="4092229443" seo="true" mt="1479095313139" redirect="true"/>
+  <file name="audio.html" crc="475084246" seo="true" mt="1479095313139" redirect="true"/>
+  <file name="video.html" crc="4235627653" seo="true" mt="1479095313139" redirect="true"/>
+  <file name="imagen.html" crc="4010698524" seo="true" mt="1479095313139" redirect="true"/>
+</manifest>
